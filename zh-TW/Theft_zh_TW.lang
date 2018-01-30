@@ -1,0 +1,8 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'I've heard things have been going missing around town.'
+staxel.village.dialogue.Theft.line:10000100=
+//TODO [Reference] 'Could there be a thief among us?'
+staxel.village.dialogue.Theft.line:10000200=
+//TODO [Reference] 'I hope not. Shop items are getting expensive!'
+staxel.village.dialogue.Theft.line:10000300=

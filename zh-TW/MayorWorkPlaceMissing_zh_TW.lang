@@ -1,0 +1,14 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Documents keep piling up at my house.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000100=
+//TODO [Reference] 'The lack of a ^c:1486b0;town hall^c:pop; is wreaking havoc on my workflow.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000200=
+//TODO [Reference] 'At this rate, the opposition might pull ahead!'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000300=
+//TODO [Reference] 'When will the ^c:1486b0;town hall^c:pop; repairs begin?'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000400=
+//TODO [Reference] 'I miss my office.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000500=
+//TODO [Reference] 'I knew I should have hired a better contractor...'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000600=

@@ -1,0 +1,8 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] '?'
+staxel.village.dialogue.GenericResponses.line:10000100=
+//TODO [Reference] 'Hm?'
+staxel.village.dialogue.GenericResponses.line:10000200=
+//TODO [Reference] 'Yes?'
+staxel.village.dialogue.GenericResponses.line:10000300=

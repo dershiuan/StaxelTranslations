@@ -1,0 +1,636 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+
+//TODO [Reference] ''
+staxel.plant.bush.BlackberryBush.description=
+//TODO [Reference] 'Blackberry Bush'
+staxel.plant.bush.BlackberryBush.name=
+//TODO [Reference] ''
+staxel.plant.bush.BlueberryBush.description=
+//TODO [Reference] 'Blueberry Bush'
+staxel.plant.bush.BlueberryBush.name=
+//TODO [Reference] ''
+staxel.plant.bush.GoldenberryBush.description=
+//TODO [Reference] 'Goldenberry Bush'
+staxel.plant.bush.GoldenberryBush.name=
+//TODO [Reference] ''
+staxel.plant.bush.RaspberryBush.description=
+//TODO [Reference] 'Raspberry Bush'
+staxel.plant.bush.RaspberryBush.name=
+//TODO [Reference] ''
+staxel.plant.crop.Beet.description=
+//TODO [Reference] 'Beet'
+staxel.plant.crop.Beet.name=
+//TODO [Reference] ''
+staxel.plant.crop.Cabbage.description=
+//TODO [Reference] 'Cabbage'
+staxel.plant.crop.Cabbage.name=
+//TODO [Reference] ''
+staxel.plant.crop.Carrot.description=
+//TODO [Reference] 'Carrot'
+staxel.plant.crop.Carrot.name=
+//TODO [Reference] ''
+staxel.plant.crop.Corn.description=
+//TODO [Reference] 'Corn'
+staxel.plant.crop.Corn.name=
+//TODO [Reference] ''
+staxel.plant.crop.Cucumber.description=
+//TODO [Reference] 'Cucumber'
+staxel.plant.crop.Cucumber.name=
+//TODO [Reference] ''
+staxel.plant.crop.Eggplant.description=
+//TODO [Reference] 'Eggplant'
+staxel.plant.crop.Eggplant.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenBeet.description=
+//TODO [Reference] 'Golden Beet'
+staxel.plant.crop.GoldenBeet.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenCarrot.description=
+//TODO [Reference] 'Golden Carrot'
+staxel.plant.crop.GoldenCarrot.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenCorn.description=
+//TODO [Reference] 'Golden Corn'
+staxel.plant.crop.GoldenCorn.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenCucumber.description=
+//TODO [Reference] 'Golden Cucumber'
+staxel.plant.crop.GoldenCucumber.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenEggplant.description=
+//TODO [Reference] 'Golden Eggplant'
+staxel.plant.crop.GoldenEggplant.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenLettuce.description=
+//TODO [Reference] 'Golden Lettuce'
+staxel.plant.crop.GoldenLettuce.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenOats.description=
+//TODO [Reference] 'Golden Oats'
+staxel.plant.crop.GoldenOats.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenOnion.description=
+//TODO [Reference] 'Golden Onion'
+staxel.plant.crop.GoldenOnion.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenPotato.description=
+//TODO [Reference] 'Golden Potato'
+staxel.plant.crop.GoldenPotato.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenSugarBeet.description=
+//TODO [Reference] 'Golden Sugar Beet'
+staxel.plant.crop.GoldenSugarBeet.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenSugarCane.description=
+//TODO [Reference] 'Golden Sugar Cane'
+staxel.plant.crop.GoldenSugarCane.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenSweetPotato.description=
+//TODO [Reference] 'Golden Sweet Potato'
+staxel.plant.crop.GoldenSweetPotato.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenTomato.description=
+//TODO [Reference] 'Golden Tomato'
+staxel.plant.crop.GoldenTomato.name=
+//TODO [Reference] ''
+staxel.plant.crop.GoldenTurnip.description=
+//TODO [Reference] 'Golden Turnip'
+staxel.plant.crop.GoldenTurnip.name=
+//TODO [Reference] ''
+staxel.plant.crop.Lettuce.description=
+//TODO [Reference] 'Lettuce'
+staxel.plant.crop.Lettuce.name=
+//TODO [Reference] ''
+staxel.plant.crop.Oat.description=
+//TODO [Reference] 'Oat'
+staxel.plant.crop.Oat.name=
+//TODO [Reference] ''
+staxel.plant.crop.Onion.description=
+//TODO [Reference] 'Onion'
+staxel.plant.crop.Onion.name=
+//TODO [Reference] ''
+staxel.plant.crop.Potato.description=
+//TODO [Reference] 'Potato'
+staxel.plant.crop.Potato.name=
+//TODO [Reference] ''
+staxel.plant.crop.Pumpkin.description=
+//TODO [Reference] 'Pumpkin'
+staxel.plant.crop.Pumpkin.name=
+//TODO [Reference] ''
+staxel.plant.crop.Strawberry.description=
+//TODO [Reference] 'Strawberry'
+staxel.plant.crop.Strawberry.name=
+//TODO [Reference] ''
+staxel.plant.crop.SugarBeet.description=
+//TODO [Reference] 'Sugar Beet'
+staxel.plant.crop.SugarBeet.name=
+
+//TODO [Reference] ''
+staxel.plant.crop.SugarCane.description=
+//TODO [Reference] 'Sugar Cane'
+staxel.plant.crop.SugarCane.name=
+//TODO [Reference] ''
+staxel.plant.crop.SweetPotato.description=
+//TODO [Reference] 'Sweet Potato'
+staxel.plant.crop.SweetPotato.name=
+//TODO [Reference] 'Fresh, soft and juicy! Mmm.'
+staxel.plant.crop.Tomato.description=
+//TODO [Reference] 'Tomato'
+staxel.plant.crop.Tomato.name=
+//TODO [Reference] ''
+staxel.plant.crop.Turnip.description=
+//TODO [Reference] 'Turnip'
+staxel.plant.crop.Turnip.name=
+//TODO [Reference] ''
+staxel.plant.crop.Watermelon.description=
+//TODO [Reference] 'Watermelon'
+staxel.plant.crop.Watermelon.name=
+//TODO [Reference] ''
+staxel.plant.crop.WhiteRose.description=
+//TODO [Reference] 'White Rose'
+staxel.plant.crop.WhiteRose.name=
+//TODO [Reference] 'A pretty, blue, round flower.'
+staxel.plant.flower.Allium.blue.1.description=
+//TODO [Reference] 'Blue Allium'
+staxel.plant.flower.Allium.blue.1.name=
+//TODO [Reference] 'A pretty, blue, round flower.'
+staxel.plant.flower.Allium.blue.2.description=
+//TODO [Reference] 'Blue Allium'
+staxel.plant.flower.Allium.blue.2.name=
+//TODO [Reference] 'A pretty, pink, round flower.'
+staxel.plant.flower.Allium.pink.1.description=
+//TODO [Reference] 'Pink Allium'
+staxel.plant.flower.Allium.pink.1.name=
+//TODO [Reference] 'A pretty, pink, round flower.'
+staxel.plant.flower.Allium.pink.2.description=
+//TODO [Reference] 'Pink Allium'
+staxel.plant.flower.Allium.pink.2.name=
+//TODO [Reference] 'A pretty, purple, round flower.'
+staxel.plant.flower.Allium.purple.description=
+//TODO [Reference] 'Purple Allium'
+staxel.plant.flower.Allium.purple.name=
+//TODO [Reference] 'A pretty, white, round flower.'
+staxel.plant.flower.Allium.white.description=
+//TODO [Reference] 'White Allium'
+staxel.plant.flower.Allium.white.name=
+//TODO [Reference] ''
+staxel.plant.flower.Bluebell.description=
+
+//TODO [Reference] 'Bluebell'
+staxel.plant.flower.Bluebell.name=
+//TODO [Reference] 'A small, cute bush.'
+staxel.plant.flower.Bush.small.description=
+//TODO [Reference] 'Small Bush'
+staxel.plant.flower.Bush.small.name=
+//TODO [Reference] 'A pink, elegant flower.'
+staxel.plant.flower.CallaLily.pink.description=
+//TODO [Reference] 'Pink Calla Lily'
+staxel.plant.flower.CallaLily.pink.name=
+//TODO [Reference] 'An orange, elegant flower.'
+staxel.plant.flower.CallaLily.slim.orange.description=
+//TODO [Reference] 'Orange Calla Lily'
+staxel.plant.flower.CallaLily.slim.orange.name=
+//TODO [Reference] 'A pink, elegant flower.'
+staxel.plant.flower.CallaLily.slim.pink.description=
+//TODO [Reference] 'Pink Calla Lily'
+staxel.plant.flower.CallaLily.slim.pink.name=
+//TODO [Reference] 'A purple, elegant flower.'
+staxel.plant.flower.CallaLily.slim.purple.description=
+//TODO [Reference] 'Purple Calla Lily'
+staxel.plant.flower.CallaLily.slim.purple.name=
+//TODO [Reference] 'A red, elegant flower.'
+staxel.plant.flower.CallaLily.slim.red.description=
+//TODO [Reference] 'Red Calla Lily'
+staxel.plant.flower.CallaLily.slim.red.name=
+//TODO [Reference] 'A violet, elegant flower.'
+staxel.plant.flower.CallaLily.slim.violet.description=
+//TODO [Reference] 'Violet Calla Lily'
+staxel.plant.flower.CallaLily.slim.violet.name=
+//TODO [Reference] 'A white, elegant flower.'
+staxel.plant.flower.CallaLily.slim.white.description=
+//TODO [Reference] 'White Calla Lily'
+staxel.plant.flower.CallaLily.slim.white.name=
+//TODO [Reference] 'A white, elegant flower.'
+staxel.plant.flower.CallaLily.white.description=
+//TODO [Reference] 'White Calla Lily'
+staxel.plant.flower.CallaLily.white.name=
+//TODO [Reference] 'A big, beautiful, orange flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.orange.description=
+//TODO [Reference] 'Orange Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.orange.name=
+//TODO [Reference] 'A big, beautiful, red flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.red.description=
+//TODO [Reference] 'Red Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.red.name=
+//TODO [Reference] 'A big, beautiful, yellow flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.yellow.description=
+//TODO [Reference] 'Yellow Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.yellow.name=
+//TODO [Reference] 'A simple, but pretty, little flower.'
+staxel.plant.flower.Daisies.pink.description=
+//TODO [Reference] 'Pink Daisy'
+staxel.plant.flower.Daisies.pink.name=
+//TODO [Reference] 'A simple, but pretty, little flower.'
+staxel.plant.flower.Daisies.white.description=
+//TODO [Reference] 'White Daisy'
+staxel.plant.flower.Daisies.white.name=
+//TODO [Reference] ''
+staxel.plant.flower.Dandelion.big.description=
+//TODO [Reference] 'Dandelion'
+staxel.plant.flower.Dandelion.big.name=
+//TODO [Reference] ''
+staxel.plant.flower.Dandelion.small.description=
+//TODO [Reference] 'Dandelion'
+staxel.plant.flower.Dandelion.small.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPink.1.description=
+//TODO [Reference] 'Light Pink Delphinium'
+staxel.plant.flower.Delphinium.lightPink.1.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPink.2.description=
+//TODO [Reference] 'Light Pink Delphinium'
+staxel.plant.flower.Delphinium.lightPink.2.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPurple.description=
+//TODO [Reference] 'Light Purple Delphinium'
+staxel.plant.flower.Delphinium.lightPurple.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.pink.description=
+//TODO [Reference] 'Pink Delphinium'
+staxel.plant.flower.Delphinium.pink.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.purple.description=
+//TODO [Reference] 'Purple Delphinium'
+staxel.plant.flower.Delphinium.purple.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.white.1.description=
+//TODO [Reference] 'White Delphinium'
+staxel.plant.flower.Delphinium.white.1.name=
+//TODO [Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.white.2.description=
+//TODO [Reference] 'White Delphinium'
+staxel.plant.flower.Delphinium.white.2.name=
+//TODO [Reference] 'A gorgeous, delicate flower.'
+staxel.plant.flower.Iris.blue.description=
+//TODO [Reference] 'Blue Iris'
+staxel.plant.flower.Iris.blue.name=
+//TODO [Reference] 'A gorgeous, delicate flower.'
+staxel.plant.flower.Iris.purple.description=
+//TODO [Reference] 'Purple Iris'
+staxel.plant.flower.Iris.purple.name=
+//TODO [Reference] ''
+staxel.plant.flower.Lavender.big.description=
+//TODO [Reference] 'Lavender'
+staxel.plant.flower.Lavender.big.name=
+//TODO [Reference] ''
+staxel.plant.flower.Lavender.small.description=
+//TODO [Reference] 'Lavender'
+staxel.plant.flower.Lavender.small.name=
+//TODO [Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.blue.description=
+//TODO [Reference] 'Blue Lily'
+staxel.plant.flower.Lily.blue.name=
+//TODO [Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.orange.1.description=
+//TODO [Reference] 'Orange Lily'
+staxel.plant.flower.Lily.orange.1.name=
+//TODO [Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.pink.1.description=
+//TODO [Reference] 'Pink Lily'
+staxel.plant.flower.Lily.pink.1.name=
+//TODO [Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.pink.2.description=
+//TODO [Reference] 'Pink Lily'
+staxel.plant.flower.Lily.pink.2.name=
+//TODO [Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.white.description=
+//TODO [Reference] 'White Lily'
+staxel.plant.flower.Lily.white.name=
+//TODO [Reference] ''
+staxel.plant.flower.Madia.description=
+//TODO [Reference] 'Madia'
+staxel.plant.flower.Madia.name=
+//TODO [Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Pansies.blue.description=
+//TODO [Reference] 'Blue Pansies'
+staxel.plant.flower.Pansies.blue.name=
+//TODO [Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Pansies.pink.description=
+//TODO [Reference] 'Pink Pansies'
+staxel.plant.flower.Pansies.pink.name=
+//TODO [Reference] 'An eye catching flower with large petals.'
+staxel.plant.flower.Petunias.blue.description=
+//TODO [Reference] 'Blue Petunias'
+staxel.plant.flower.Petunias.blue.name=
+//TODO [Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Petunias.pinkWhite.description=
+//TODO [Reference] 'Pink & White Petunias'
+staxel.plant.flower.Petunias.pinkWhite.name=
+//TODO [Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Petunias.purpleWhite.description=
+//TODO [Reference] 'Purple & White Petunias'
+staxel.plant.flower.Petunias.purpleWhite.name=
+//TODO [Reference] 'A small, simple and very beautiful flower.'
+staxel.plant.flower.Poppies.red.description=
+//TODO [Reference] 'Red Poppies'
+staxel.plant.flower.Poppies.red.name=
+//TODO [Reference] 'A small, simple and very beautiful flower.'
+staxel.plant.flower.Poppies.white.description=
+//TODO [Reference] 'White Poppies'
+staxel.plant.flower.Poppies.white.name=
+//TODO [Reference] 'A glamorous, iconic flower.'
+staxel.plant.flower.Roses.red.description=
+//TODO [Reference] 'Red Roses'
+staxel.plant.flower.Roses.red.name=
+//TODO [Reference] 'A glamorous, iconic flower.'
+staxel.plant.flower.Roses.yellow.description=
+//TODO [Reference] 'Yellow Roses'
+staxel.plant.flower.Roses.yellow.name=
+//TODO [Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.pink.description=
+//TODO [Reference] 'Pink Senetti'
+staxel.plant.flower.Senneti.pink.name=
+//TODO [Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.pinkWhite.description=
+//TODO [Reference] 'Pink & White Senetti'
+staxel.plant.flower.Senneti.pinkWhite.name=
+//TODO [Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.purple.description=
+//TODO [Reference] 'Purple Senetti'
+staxel.plant.flower.Senneti.purple.name=
+//TODO [Reference] 'A bright, cheerful flower.'
+staxel.plant.flower.Sunflower.yellow.1.description=
+//TODO [Reference] 'Sunflower'
+staxel.plant.flower.Sunflower.yellow.1.name=
+//TODO [Reference] 'A bright, cheerful flower.'
+staxel.plant.flower.Sunflower.yellow.2.description=
+//TODO [Reference] 'Sunflower'
+staxel.plant.flower.Sunflower.yellow.2.name=
+//TODO [Reference] 'Some wild, extra long grass.'
+staxel.plant.flower.WildGrass.description=
+//TODO [Reference] 'Wild Grass'
+staxel.plant.flower.WildGrass.name=
+
+//TODO [Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
+staxel.plant.gatherable.BrownMushroom.description=
+//TODO [Reference] 'Brown Mushroom'
+staxel.plant.gatherable.BrownMushroom.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.HermitShell.description=
+//TODO [Reference] 'Hermit Shell'
+staxel.plant.gatherable.HermitShell.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.PearlShell.description=
+//TODO [Reference] 'Pearl Shell'
+staxel.plant.gatherable.PearlShell.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.RedCoral.description=
+//TODO [Reference] 'Red Coral'
+staxel.plant.gatherable.RedCoral.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.RedWhiteMushroom.description=
+//TODO [Reference] 'Red White Mushroom'
+staxel.plant.gatherable.RedWhiteMushroom.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.Starfish.description=
+//TODO [Reference] 'Starfish'
+staxel.plant.gatherable.Starfish.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.SwirlyShell.description=
+//TODO [Reference] 'Swirly Shell'
+staxel.plant.gatherable.SwirlyShell.name=
+//TODO [Reference] ''
+staxel.plant.gatherable.WhiteMushrooms.description=
+//TODO [Reference] 'White Mushrooms'
+staxel.plant.gatherable.WhiteMushrooms.name=
+
+//TODO [Reference] 'What a cute little bonsai tree!'
+staxel.plant.indoors.Bonsai.small.description=
+//TODO [Reference] 'Small Bonsai Tree'
+staxel.plant.indoors.Bonsai.small.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.1.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.1.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.2.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.2.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.3.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.3.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.4.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.4.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.5.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.5.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.6.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.6.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.7.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.7.name=
+//TODO [Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.8.description=
+//TODO [Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.8.name=
+//TODO [Reference] 'An empty pot.'
+staxel.plant.indoors.EmptyPot.mini.1.description=
+//TODO [Reference] 'Empty Pot'
+staxel.plant.indoors.EmptyPot.mini.1.name=
+//TODO [Reference] 'An empty pot.'
+staxel.plant.indoors.EmptyPot.mini.2.description=
+//TODO [Reference] 'Empty Pot'
+staxel.plant.indoors.EmptyPot.mini.2.name=
+//TODO [Reference] 'An empty glass vase, ready for use.'
+staxel.plant.indoors.GlassJar.empty.description=
+//TODO [Reference] 'Empty Glass Vase'
+staxel.plant.indoors.GlassJar.empty.name=
+//TODO [Reference] 'A mug with a heart on it, how sweet!'
+staxel.plant.indoors.HeartMug.empty.description=
+//TODO [Reference] 'Heart Mug'
+staxel.plant.indoors.HeartMug.empty.name=
+//TODO [Reference] 'A heart mug with roses inside!'
+staxel.plant.indoors.HeartMug.roses.description=
+//TODO [Reference] 'Heart Mug With Roses'
+staxel.plant.indoors.HeartMug.roses.name=
+//TODO [Reference] 'A healthy looking Hydrangea in a pot.'
+staxel.plant.indoors.Hydrangea.small.description=
+//TODO [Reference] 'Small Potted Hydrangea'
+staxel.plant.indoors.Hydrangea.small.name=
+//TODO [Reference] 'A healthy looking Hydrangea in a pot.'
+staxel.plant.indoors.HydrangeaPot.small.description=
+//TODO [Reference] 'Potted Hydrangea'
+staxel.plant.indoors.HydrangeaPot.small.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.1.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.1.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.2.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.2.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.3.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.3.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.4.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.4.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.5.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.5.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.6.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.6.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.7.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.7.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.8.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.8.name=
+//TODO [Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.9.description=
+//TODO [Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.9.name=
+//TODO [Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.1.description=
+//TODO [Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.1.name=
+//TODO [Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.2.description=
+//TODO [Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.2.name=
+//TODO [Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.3.description=
+//TODO [Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.3.name=
+//TODO [Reference] 'A pale pot with a lovely, healthy plant inside.'
+staxel.plant.indoors.PottedPlant.description=
+//TODO [Reference] 'Potted Plant'
+staxel.plant.indoors.PottedPlant.name=
+//TODO [Reference] 'A large orange pot with primroses growing inside.'
+staxel.plant.indoors.Primroses.description=
+//TODO [Reference] 'Primroses'
+staxel.plant.indoors.Primroses.name=
+//TODO [Reference] 'A tiny pot with a very tiny plant growing inside. So cute!'
+staxel.plant.indoors.Sapling.small.1.description=
+//TODO [Reference] 'Tiny Potted Plant'
+staxel.plant.indoors.Sapling.small.1.name=
+//TODO [Reference] 'A tiny pot with a very tiny plant growing inside. So cute!'
+staxel.plant.indoors.Sapling.small.2.description=
+//TODO [Reference] 'Tiny Potted Plant'
+staxel.plant.indoors.Sapling.small.2.name=
+//TODO [Reference] 'A large, detailed pot with sunflowers growing inside.'
+staxel.plant.indoors.Sunflowers.description=
+//TODO [Reference] 'Potted Sunflowers'
+staxel.plant.indoors.Sunflowers.name=
+//TODO [Reference] 'Potted tulips in a lovely, simple pot.'
+staxel.plant.indoors.Tulips.purple.description=
+//TODO [Reference] 'Potted Tulips'
+staxel.plant.indoors.Tulips.purple.name=
+//TODO [Reference] 'A plain, empty pot.'
+staxel.plant.indoors.TulipsMug.empty.purple.description=
+//TODO [Reference] 'Empty Pot'
+staxel.plant.indoors.TulipsMug.empty.purple.name=
+
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a A note.'
+staxel.plant.musical.PianoA.description=
+//TODO [Reference] 'Musical Piano Plant Note A'
+staxel.plant.musical.PianoA.name=
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a B note.'
+staxel.plant.musical.PianoB.description=
+//TODO [Reference] 'Musical Piano Plant Note B'
+staxel.plant.musical.PianoB.name=
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a C note.'
+staxel.plant.musical.PianoC.description=
+//TODO [Reference] 'Musical Piano Plant Note C'
+staxel.plant.musical.PianoC.name=
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a D note.'
+staxel.plant.musical.PianoD.description=
+//TODO [Reference] 'Musical Piano Plant Note D'
+staxel.plant.musical.PianoD.name=
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a E note.'
+staxel.plant.musical.PianoE.description=
+//TODO [Reference] 'Musical Piano Plant Note E'
+staxel.plant.musical.PianoE.name=
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a F note.'
+staxel.plant.musical.PianoF.description=
+//TODO [Reference] 'Musical Piano Plant Note F'
+staxel.plant.musical.PianoF.name=
+//TODO [Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a G note.'
+staxel.plant.musical.PianoG.description=
+//TODO [Reference] 'Musical Piano Plant Note G'
+staxel.plant.musical.PianoG.name=
+//TODO [Reference] ''
+staxel.plant.tree.AppleTree.description=
+//TODO [Reference] 'Apple Tree'
+staxel.plant.tree.AppleTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.BananaTree.description=
+//TODO [Reference] 'Banana Tree'
+staxel.plant.tree.BananaTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.CherryTree.description=
+//TODO [Reference] 'Cherry Tree'
+staxel.plant.tree.CherryTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.CocoaTree.description=
+//TODO [Reference] 'Cocoa Tree'
+staxel.plant.tree.CocoaTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.CoconutTree.description=
+//TODO [Reference] 'Coconut Tree'
+staxel.plant.tree.CoconutTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.DragonFruitTree.description=
+//TODO [Reference] 'Dragon Fruit Tree'
+staxel.plant.tree.DragonFruitTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.KiwiTree.description=
+//TODO [Reference] 'Kiwi Tree'
+staxel.plant.tree.KiwiTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.LemonTree.description=
+//TODO [Reference] 'Lemon Tree'
+staxel.plant.tree.LemonTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.LimeTree.description=
+//TODO [Reference] 'Lime Tree'
+staxel.plant.tree.LimeTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.MangoTree.description=
+//TODO [Reference] 'Mango Tree'
+staxel.plant.tree.MangoTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.OrangeTree.description=
+//TODO [Reference] 'Orange Tree'
+staxel.plant.tree.OrangeTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.PeachTree.description=
+//TODO [Reference] 'Peach Tree'
+staxel.plant.tree.PeachTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.PearTree.description=
+//TODO [Reference] 'Pear Tree'
+staxel.plant.tree.PearTree.name=
+//TODO [Reference] ''
+staxel.plant.tree.TangerineTree.description=
+//TODO [Reference] 'Tangerine Tree'
+staxel.plant.tree.TangerineTree.name=
+//TODO [Reference] ''
+staxel.plant.weed.Weed1.description=
+//TODO [Reference] 'Weeds'
+staxel.plant.weed.Weed1.name=

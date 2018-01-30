@@ -1,0 +1,10 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Hi there.'
+staxel.village.dialogue.intro.Leif.line:10000100=
+//TODO [Reference] 'I run the local store.'
+staxel.village.dialogue.intro.Leif.line:10000200=
+//TODO [Reference] 'The name's ^c:1486b0;{0-name}^c:pop;.'
+staxel.village.dialogue.intro.Leif.line:10000300=
+//TODO [Reference] 'Do stop by!'
+staxel.village.dialogue.intro.Leif.line:10000400=

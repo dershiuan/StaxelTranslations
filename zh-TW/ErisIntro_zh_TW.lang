@@ -1,0 +1,10 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Whoa! Nearly ran right over you there!'
+staxel.village.dialogue.intro.Eris.line:10000100=
+//TODO [Reference] '
+staxel.village.dialogue.intro.Eris.line:10000200=You must be new around here...
+//TODO [Reference] 'I'm ^c:1486b0;{0-name}^c:pop;. Skateboards and bugs are my thing!'
+staxel.village.dialogue.intro.Eris.line:10000300=
+//TODO [Reference] 'Look me up sometime!'
+staxel.village.dialogue.intro.Eris.line:10000400=

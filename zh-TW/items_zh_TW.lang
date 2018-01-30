@@ -1,0 +1,1167 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+
+//TODO [Reference] 'White powder for baking.'
+staxel.item.crafting.BakingPowder.description=
+//TODO [Reference] 'Baking Powder'
+staxel.item.crafting.BakingPowder.name=
+//TODO [Reference] 'Used to bake food in an oven.'
+staxel.item.crafting.BakingTray.description=
+//TODO [Reference] 'Baking Tray'
+staxel.item.crafting.BakingTray.name=
+//TODO [Reference] 'They're fresh and plentiful.'
+staxel.item.crafting.Blueberries.description=
+//TODO [Reference] 'Blueberries'
+staxel.item.crafting.Blueberries.name=
+//TODO [Reference] 'A white bowl.'
+staxel.item.crafting.Bowl.description=
+//TODO [Reference] 'Bowl'
+staxel.item.crafting.Bowl.name=
+//TODO [Reference] 'A loaf of bread.'
+staxel.item.crafting.Bread.description=
+//TODO [Reference] 'Bread'
+staxel.item.crafting.Bread.name=
+//TODO [Reference] 'A freshly cut slice of bread.'
+staxel.item.crafting.BreadSlice.description=
+//TODO [Reference] 'Bread slice'
+staxel.item.crafting.BreadSlice.name=
+//TODO [Reference] 'It's like sugar, but brown!'
+staxel.item.crafting.BrownSugar.description=
+//TODO [Reference] 'Brown sugar'
+staxel.item.crafting.BrownSugar.name=
+//TODO [Reference] 'A multipurpose miracle product. Useful for many recipes!'
+staxel.item.crafting.Butter.description=
+//TODO [Reference] 'Butter'
+staxel.item.crafting.Butter.name=
+//TODO [Reference] ''
+staxel.item.crafting.Buttermilk.description=
+//TODO [Reference] 'Buttermilk'
+staxel.item.crafting.Buttermilk.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakeCarrot.description=
+//TODO [Reference] 'Carrot Cake'
+staxel.item.crafting.CakeCarrot.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakeCarrotBatter.description=
+//TODO [Reference] 'Carrot Cake Batter'
+staxel.item.crafting.CakeCarrotBatter.name=
+//TODO [Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
+staxel.item.crafting.CakeChocolate.description=
+//TODO [Reference] 'Chocolate Cake'
+staxel.item.crafting.CakeChocolate.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakeChocolateBatter.description=
+//TODO [Reference] 'Chocolate Cake Batter'
+staxel.item.crafting.CakeChocolateBatter.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakeJam.description=
+//TODO [Reference] 'Jam Cake'
+staxel.item.crafting.CakeJam.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakePlain.description=
+//TODO [Reference] 'Cake'
+staxel.item.crafting.CakePlain.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakePlainBatter.description=
+//TODO [Reference] 'Cake Batter'
+staxel.item.crafting.CakePlainBatter.name=
+//TODO [Reference] 'A circular cake tin, for round cakes!'
+staxel.item.crafting.CakeTin_Circle.description=
+//TODO [Reference] 'Circle Cake Tin'
+staxel.item.crafting.CakeTin_Circle.name=
+//TODO [Reference] ''
+staxel.item.crafting.CakeTin_Circle_Batter.description=
+//TODO [Reference] 'Batter-Filled Cake Tin'
+staxel.item.crafting.CakeTin_Circle_Batter.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyBlue.description=
+//TODO [Reference] 'Blue Candy'
+staxel.item.crafting.CandyBlue.name=
+//TODO [Reference] 'A delicious treat, everything's better with chocolate!'
+staxel.item.crafting.CandyChocolateBar.description=
+//TODO [Reference] 'Chocolate Bar'
+staxel.item.crafting.CandyChocolateBar.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyGreen.description=
+//TODO [Reference] 'Green Candy'
+staxel.item.crafting.CandyGreen.name=
+//TODO [Reference] 'A delicious red lollipop!'
+staxel.item.crafting.CandyLollipop.description=
+//TODO [Reference] 'Lollipop'
+staxel.item.crafting.CandyLollipop.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyOrange.description=
+//TODO [Reference] 'Orange Candy'
+staxel.item.crafting.CandyOrange.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyPink.description=
+//TODO [Reference] 'Pink Candy'
+staxel.item.crafting.CandyPink.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyPurple.description=
+//TODO [Reference] 'Purple Candy'
+staxel.item.crafting.CandyPurple.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyRed.description=
+//TODO [Reference] 'Red Candy'
+staxel.item.crafting.CandyRed.name=
+//TODO [Reference] ''
+staxel.item.crafting.CandyYellow.description=
+//TODO [Reference] 'Yellow Candy'
+staxel.item.crafting.CandyYellow.name=
+//TODO [Reference] 'A healthy looking carrot.'
+staxel.item.crafting.Carrot.description=
+//TODO [Reference] 'Carrot'
+staxel.item.crafting.Carrot.name=
+//TODO [Reference] ''
+staxel.item.crafting.Cheese.description=
+//TODO [Reference] 'Cheese'
+staxel.item.crafting.Cheese.name=
+//TODO [Reference] 'Useful in many recipes, everybody likes chocolate!'
+staxel.item.crafting.Chocolate.description=
+//TODO [Reference] ''
+staxel.item.crafting.Chocolate.name=Chocolate
+//TODO [Reference] 'Chopped up apple.'
+staxel.item.crafting.ChoppedApple.description=
+//TODO [Reference] 'Chopped Apple'
+staxel.item.crafting.ChoppedApple.name=
+//TODO [Reference] 'Chopped up beet.'
+staxel.item.crafting.ChoppedBeet.description=
+//TODO [Reference] 'Chopped Beet'
+staxel.item.crafting.ChoppedBeet.name=
+//TODO [Reference] ''
+staxel.item.crafting.ChoppedBlackberries.description=
+//TODO [Reference] 'Chopped Blackberries'
+staxel.item.crafting.ChoppedBlackberries.name=
+//TODO [Reference] ''
+staxel.item.crafting.ChoppedBlueberries.description=
+//TODO [Reference] 'Chopped Blueberries'
+staxel.item.crafting.ChoppedBlueberries.name=
+//TODO [Reference] ''
+staxel.item.crafting.ChoppedCabbage.description=
+//TODO [Reference] 'Chopped Cabbage'
+staxel.item.crafting.ChoppedCabbage.name=
+//TODO [Reference] 'Chopped up carrot.'
+staxel.item.crafting.ChoppedCarrot.description=
+//TODO [Reference] 'Chopped Carrot'
+staxel.item.crafting.ChoppedCarrot.name=
+//TODO [Reference] 'Chopped up cherries.'
+staxel.item.crafting.ChoppedCherries.description=
+//TODO [Reference] 'Chopped Cherries'
+staxel.item.crafting.ChoppedCherries.name=
+//TODO [Reference] 'Chopped up corn.'
+staxel.item.crafting.ChoppedCorn.description=
+//TODO [Reference] 'Chopped Corn'
+staxel.item.crafting.ChoppedCorn.name=
+//TODO [Reference] 'Chopped up cucumber.'
+staxel.item.crafting.ChoppedCucumber.description=
+//TODO [Reference] 'Chopped Cucumber'
+staxel.item.crafting.ChoppedCucumber.name=
+//TODO [Reference] 'Chopped up dragonfruit.'
+staxel.item.crafting.ChoppedDragonfruit.description=
+//TODO [Reference] 'Chopped Dragon Fruit'
+staxel.item.crafting.ChoppedDragonfruit.name=
+//TODO [Reference] 'Chopped up eggplant'
+staxel.item.crafting.ChoppedEggplant.description=
+//TODO [Reference] 'Chopped Eggplant'
+staxel.item.crafting.ChoppedEggplant.name=
+//TODO [Reference] 'Chopped up kiwi.'
+staxel.item.crafting.ChoppedKiwi.description=
+//TODO [Reference] 'Chopped Kiwi'
+staxel.item.crafting.ChoppedKiwi.name=
+//TODO [Reference] 'Chopped up lemon.'
+staxel.item.crafting.ChoppedLemon.description=
+//TODO [Reference] 'Chopped Lemon'
+staxel.item.crafting.ChoppedLemon.name=
+//TODO [Reference] 'Chopped up lettuce.'
+staxel.item.crafting.ChoppedLettuce.description=
+//TODO [Reference] 'Chopped Lettuce'
+staxel.item.crafting.ChoppedLettuce.name=
+//TODO [Reference] 'Chopped up lime.'
+staxel.item.crafting.ChoppedLime.description=
+//TODO [Reference] 'Chopped Lime'
+staxel.item.crafting.ChoppedLime.name=
+//TODO [Reference] 'Chopped up mango.'
+staxel.item.crafting.ChoppedMango.description=
+//TODO [Reference] 'Chopped Mango'
+staxel.item.crafting.ChoppedMango.name=
+//TODO [Reference] 'Chopped up onion.'
+staxel.item.crafting.ChoppedOnion.description=
+//TODO [Reference] 'Chopped Onion'
+staxel.item.crafting.ChoppedOnion.name=
+//TODO [Reference] 'Chopped up orange.'
+staxel.item.crafting.ChoppedOrange.description=
+//TODO [Reference] 'Chopped Orange'
+staxel.item.crafting.ChoppedOrange.name=
+//TODO [Reference] 'Chopped up peach.'
+staxel.item.crafting.ChoppedPeach.description=
+//TODO [Reference] 'Chopped Peach'
+staxel.item.crafting.ChoppedPeach.name=
+//TODO [Reference] 'Chopped up pear.'
+staxel.item.crafting.ChoppedPear.description=
+//TODO [Reference] 'Chopped Pear'
+staxel.item.crafting.ChoppedPear.name=
+//TODO [Reference] 'Chopped up potato.'
+staxel.item.crafting.ChoppedPotato.description=
+//TODO [Reference] 'Chopped Potato'
+staxel.item.crafting.ChoppedPotato.name=
+//TODO [Reference] 'Chopped up pumpkin.'
+staxel.item.crafting.ChoppedPumpkin.description=
+//TODO [Reference] 'Chopped Pumpkin'
+staxel.item.crafting.ChoppedPumpkin.name=
+//TODO [Reference] 'Chopped up raspberries.'
+staxel.item.crafting.ChoppedRaspberries.description=
+//TODO [Reference] 'Chopped Raspberries'
+staxel.item.crafting.ChoppedRaspberries.name=
+//TODO [Reference] 'Chopped up strawberries.'
+staxel.item.crafting.ChoppedStrawberries.description=
+//TODO [Reference] 'Chopped Strawberries'
+staxel.item.crafting.ChoppedStrawberries.name=
+//TODO [Reference] 'Chopped up sugar beet.'
+staxel.item.crafting.ChoppedSugarBeet.description=
+//TODO [Reference] 'Chopped Sugar Beet'
+staxel.item.crafting.ChoppedSugarBeet.name=
+//TODO [Reference] 'Chopped up sweet potato.'
+staxel.item.crafting.ChoppedSweetPotato.description=
+//TODO [Reference] 'Chopped Sweet Potato'
+staxel.item.crafting.ChoppedSweetPotato.name=
+//TODO [Reference] 'Chopped up tangerine.'
+staxel.item.crafting.ChoppedTangerine.description=
+//TODO [Reference] 'Chopped Tangerine'
+staxel.item.crafting.ChoppedTangerine.name=
+//TODO [Reference] 'Chopped up tomato.'
+staxel.item.crafting.ChoppedTomato.description=
+//TODO [Reference] 'Chopped Tomato'
+staxel.item.crafting.ChoppedTomato.name=
+//TODO [Reference] 'Chopped up turnip.'
+staxel.item.crafting.ChoppedTurnip.description=
+//TODO [Reference] 'Chopped Turnip'
+staxel.item.crafting.ChoppedTurnip.name=
+//TODO [Reference] 'A chopping board is used to chop, slice and dice ingredients.'
+staxel.item.crafting.ChoppingBoard.description=
+//TODO [Reference] 'Chopping Board'
+staxel.item.crafting.ChoppingBoard.name=
+//TODO [Reference] 'Chocolate chip cookies, with extra chocolate chip!'
+staxel.item.crafting.CookiesChocolateChip.description=
+//TODO [Reference] 'Chocolate Chip Cookies'
+staxel.item.crafting.CookiesChocolateChip.name=
+//TODO [Reference] 'These may be plain cookies, but they smell divine.'
+staxel.item.crafting.CookiesPlain.description=
+//TODO [Reference] 'Cookies'
+staxel.item.crafting.CookiesPlain.name=
+//TODO [Reference] 'It's like milk, but thicker!'
+staxel.item.crafting.Cream.description=
+//TODO [Reference] 'Cream'
+staxel.item.crafting.Cream.name=
+//TODO [Reference] 'A standard egg, good for selling or cooking.'
+staxel.item.crafting.Egg.description=
+//TODO [Reference] 'Egg'
+staxel.item.crafting.Egg.name=
+//TODO [Reference] 'Looks disgusting.'
+staxel.item.crafting.FailedDish.description=
+//TODO [Reference] 'Failed Dish'
+staxel.item.crafting.FailedDish.name=
+//TODO [Reference] 'If you need to fry something, you should use this. It's a frying pan.'
+staxel.item.crafting.FryingPan.description=
+//TODO [Reference] 'Frying Pan'
+staxel.item.crafting.FryingPan.name=
+//TODO [Reference] 'Used for sawing resources manually.'
+staxel.item.crafting.HandSaw.description=
+//TODO [Reference] 'Handsaw'
+staxel.item.crafting.HandSaw.name=
+//TODO [Reference] 'Great for barbeques, make sure to bring ketchup and mustard!'
+staxel.item.crafting.Hotdogs.description=
+//TODO [Reference] 'Hotdogs'
+staxel.item.crafting.Hotdogs.name=
+//TODO [Reference] 'Mmm, the icing looks delicious! The whole thing looks good but the icing is the icing on the cake.'
+staxel.item.crafting.IcedCake.description=
+//TODO [Reference] 'Iced cake'
+staxel.item.crafting.IcedCake.name=
+//TODO [Reference] 'Blackberry jam, made from real blackberries!'
+staxel.item.crafting.JamBlackberry.description=
+//TODO [Reference] 'Blackberry Jam'
+staxel.item.crafting.JamBlackberry.name=
+//TODO [Reference] 'Ooh, blueberry jam! What a rich colour.'
+staxel.item.crafting.JamBlueberry.description=
+//TODO [Reference] 'Blueberry Jam'
+staxel.item.crafting.JamBlueberry.name=
+//TODO [Reference] ''
+staxel.item.crafting.JamCherry.description=
+//TODO [Reference] 'Cherry Jam'
+staxel.item.crafting.JamCherry.name=
+//TODO [Reference] ''
+staxel.item.crafting.JamDragonFruit.description=
+//TODO [Reference] 'Dragon Fruit Jam'
+staxel.item.crafting.JamDragonFruit.name=
+//TODO [Reference] ''
+staxel.item.crafting.JamRaspberry.description=
+//TODO [Reference] 'Raspberry Jam'
+staxel.item.crafting.JamRaspberry.name=
+//TODO [Reference] 'Ahh, in the morning nothing beats strawberry jam on toast!'
+staxel.item.crafting.JamStrawberry.description=
+//TODO [Reference] 'Strawberry Jam'
+staxel.item.crafting.JamStrawberry.name=
+//TODO [Reference] 'A clean, empty jar.'
+staxel.item.crafting.JarEmpty.description=
+//TODO [Reference] 'Empty Jar'
+staxel.item.crafting.JarEmpty.name=
+//TODO [Reference] 'A sharp, cooking knife. Be careful!'
+staxel.item.crafting.Knife.description=
+//TODO [Reference] 'Knife'
+staxel.item.crafting.Knife.name=
+//TODO [Reference] ''
+staxel.item.crafting.MarmaladeLemon.description=
+//TODO [Reference] 'Lemon Marmalade'
+staxel.item.crafting.MarmaladeLemon.name=
+//TODO [Reference] 'This lime marmalade is brightly coloured!'
+staxel.item.crafting.MarmaladeLime.description=
+//TODO [Reference] 'Lime Marmalade'
+staxel.item.crafting.MarmaladeLime.name=
+//TODO [Reference] ''
+staxel.item.crafting.MarmaladeOrange.description=
+//TODO [Reference] 'Orange Marmalade'
+staxel.item.crafting.MarmaladeOrange.name=
+//TODO [Reference] 'Delicious, fresh milk!'
+staxel.item.crafting.Milk.description=
+//TODO [Reference] 'Milk'
+staxel.item.crafting.Milk.name=
+//TODO [Reference] 'A large bowl, solely used for mixing!'
+staxel.item.crafting.MixingBowl.description=
+//TODO [Reference] 'Mixing Bowl'
+staxel.item.crafting.MixingBowl.name=
+//TODO [Reference] 'Muffins with a healthy helping of blueberries!'
+staxel.item.crafting.MuffinsBlueberry.description=
+//TODO [Reference] 'Blueberry muffins'
+staxel.item.crafting.MuffinsBlueberry.name=
+//TODO [Reference] 'The chocolate chips are evenly spread out, yum!'
+staxel.item.crafting.MuffinsChocolateChip.description=
+//TODO [Reference] 'Chocolate chip muffins'
+staxel.item.crafting.MuffinsChocolateChip.name=
+//TODO [Reference] 'Plain muffins, baked to perfection.'
+staxel.item.crafting.MuffinsPlain.description=
+//TODO [Reference] 'Plain muffins'
+staxel.item.crafting.MuffinsPlain.name=
+//TODO [Reference] 'These strawberry muffins not only look great, they smell great!'
+staxel.item.crafting.MuffinsStrawberry.description=
+//TODO [Reference] ''
+staxel.item.crafting.MuffinsStrawberry.name=Strawberry muffins
+//TODO [Reference] 'A muffin tin, used for baking cupcakes, muffins and more.'
+staxel.item.crafting.MuffinTin.description=
+//TODO [Reference] 'Muffin Tin'
+staxel.item.crafting.MuffinTin.name=
+//TODO [Reference] 'Nothing satisfies the throat quite like this silky beverage.'
+staxel.item.crafting.MugOSap.description=
+//TODO [Reference] 'Mug O' Sap'
+staxel.item.crafting.MugOSap.name=
+//TODO [Reference] 'Freshly picked, this mushroom looks safe to eat!'
+staxel.item.crafting.Mushroom.description=
+//TODO [Reference] 'Mushroom'
+staxel.item.crafting.Mushroom.name=
+//TODO [Reference] 'Chopped up mushroom.'
+staxel.item.crafting.MushroomCut.description=
+//TODO [Reference] 'Chopped Mushroom'
+staxel.item.crafting.MushroomCut.name=
+//TODO [Reference] 'Fresh oats. What a fine grain!'
+staxel.item.crafting.Oats.description=
+//TODO [Reference] 'Oats'
+staxel.item.crafting.Oats.name=
+//TODO [Reference] 'Chopped up onion.'
+staxel.item.crafting.OnionCut.description=
+//TODO [Reference] 'Chopped Onion'
+staxel.item.crafting.OnionCut.name=
+//TODO [Reference] 'Delicious orange juice, what a fine way to start the day.'
+staxel.item.crafting.OrangeJuice.description=
+//TODO [Reference] 'Orange Juice'
+staxel.item.crafting.OrangeJuice.name=
+//TODO [Reference] 'A delicious, golden, apple pie. Still warm from the oven!'
+staxel.item.crafting.PieApple.description=
+//TODO [Reference] 'Apple Pie'
+staxel.item.crafting.PieApple.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieAppleUnbaked.description=
+//TODO [Reference] 'Unbaked Apple Pie'
+staxel.item.crafting.PieAppleUnbaked.name=
+//TODO [Reference] 'A delicious, blackberry pie. Still warm from the oven!'
+staxel.item.crafting.PieBlackberry.description=
+//TODO [Reference] 'Blackberry Pie'
+staxel.item.crafting.PieBlackberry.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieBlackberryUnbaked.description=
+//TODO [Reference] 'Unbaked Blackberry Pie'
+staxel.item.crafting.PieBlackberryUnbaked.name=
+//TODO [Reference] 'A delicious, blueberry pie. Still warm from the oven!'
+staxel.item.crafting.PieBlueberry.description=
+//TODO [Reference] 'Blueberry Pie'
+staxel.item.crafting.PieBlueberry.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieBlueberryUnbaked.description=
+//TODO [Reference] 'Unbaked Blueberry Pie'
+staxel.item.crafting.PieBlueberryUnbaked.name=
+//TODO [Reference] 'A delicious, cherry pie. Still warm from the oven!'
+staxel.item.crafting.PieCherry.description=
+//TODO [Reference] 'Cherry Pie'
+staxel.item.crafting.PieCherry.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieCherryUnbaked.description=
+//TODO [Reference] 'Unbaked Cherry Pie'
+staxel.item.crafting.PieCherryUnbaked.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieCrust.description=
+//TODO [Reference] 'Pie Crust'
+staxel.item.crafting.PieCrust.name=
+//TODO [Reference] 'A delicious, dragonfruit pie. Still warm from the oven!'
+staxel.item.crafting.PieDragonFruit.description=
+//TODO [Reference] 'Dragon Fruit Pie'
+staxel.item.crafting.PieDragonFruit.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieDragonFruitUnbaked.description=
+//TODO [Reference] 'Unbaked Dragon Fruit Pie'
+staxel.item.crafting.PieDragonFruitUnbaked.name=
+//TODO [Reference] 'A delicious, lemon pie. Still warm from the oven!'
+staxel.item.crafting.PieLemon.description=
+//TODO [Reference] 'Lemon Pie'
+staxel.item.crafting.PieLemon.name=
+//TODO [Reference] 'A perfect lemon pie, ready for baking!'
+staxel.item.crafting.PieLemonUnbaked.description=
+//TODO [Reference] 'Unbaked Lemon Pie'
+staxel.item.crafting.PieLemonUnbaked.name=
+//TODO [Reference] 'A delicious, lime pie. Still warm from the oven!'
+staxel.item.crafting.PieLime.description=
+//TODO [Reference] 'Key Lime Pie'
+staxel.item.crafting.PieLime.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieLimeUnbaked.description=
+//TODO [Reference] 'Unbaked Lime Pie'
+staxel.item.crafting.PieLimeUnbaked.name=
+//TODO [Reference] 'A delicious, orange pie. Still warm from the oven!'
+staxel.item.crafting.PieOrange.description=
+//TODO [Reference] 'Orange Pie'
+staxel.item.crafting.PieOrange.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieOrangeUnbaked.description=
+//TODO [Reference] 'Unbaked Orange Pie'
+staxel.item.crafting.PieOrangeUnbaked.name=
+//TODO [Reference] 'A delicious, peach pie. Still warm from the oven!'
+staxel.item.crafting.PiePeach.description=
+//TODO [Reference] 'Peach Pie'
+staxel.item.crafting.PiePeach.name=
+//TODO [Reference] ''
+staxel.item.crafting.PiePeachUnbaked.description=
+//TODO [Reference] 'Unbaked Peach Pie'
+staxel.item.crafting.PiePeachUnbaked.name=
+//TODO [Reference] 'A delicious, raspberry pie. Still warm from the oven!'
+staxel.item.crafting.PieRaspberry.description=
+//TODO [Reference] 'Raspberry Pie'
+staxel.item.crafting.PieRaspberry.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieRaspberryUnbaked.description=
+//TODO [Reference] 'Unbaked Raspberry Pie'
+staxel.item.crafting.PieRaspberryUnbaked.name=
+//TODO [Reference] 'A delicious, strawberry pie. Still warm from the oven!'
+staxel.item.crafting.PieStrawberry.description=
+//TODO [Reference] 'Strawberry Pie'
+staxel.item.crafting.PieStrawberry.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieStrawberryUnbaked.description=
+//TODO [Reference] 'Unbaked Strawberry Pie'
+staxel.item.crafting.PieStrawberryUnbaked.name=
+//TODO [Reference] 'A 'delicious', vegetable pie. Still warm from the oven!'
+staxel.item.crafting.PieVegetable.description=
+//TODO [Reference] 'Vegetable Pie'
+staxel.item.crafting.PieVegetable.name=
+//TODO [Reference] ''
+staxel.item.crafting.PieVegetableUnbaked.description=
+//TODO [Reference] 'Unbaked Vegetable Pie'
+staxel.item.crafting.PieVegetableUnbaked.name=
+//TODO [Reference] 'Plain flour has many uses, and used in plenty of cooking and baking recipes.'
+staxel.item.crafting.PlainFlour.description=
+//TODO [Reference] 'Plain Flour'
+staxel.item.crafting.PlainFlour.name=
+//TODO [Reference] 'A standard pot, useful for cooking.'
+staxel.item.crafting.Pot.description=
+//TODO [Reference] 'Pot'
+staxel.item.crafting.Pot.name=
+//TODO [Reference] 'Onion soup still in the pot.'
+staxel.item.crafting.PotOnionSoup.description=
+//TODO [Reference] 'Onion Soup'
+staxel.item.crafting.PotOnionSoup.name=
+//TODO [Reference] 'Tomato soup still in the pot.'
+staxel.item.crafting.PotTomatoSoup.description=
+//TODO [Reference] 'Tomato Soup'
+staxel.item.crafting.PotTomatoSoup.name=
+//TODO [Reference] 'A pot of boiling water.'
+staxel.item.crafting.PotWaterBoiling.description=
+//TODO [Reference] 'Pot of Boiling Water'
+staxel.item.crafting.PotWaterBoiling.name=
+//TODO [Reference] 'A freshly baked pie with a delicious, raspberry filling.'
+staxel.item.crafting.RaspberryPie.description=
+//TODO [Reference] 'Raspberry Pie'
+staxel.item.crafting.RaspberryPie.name=
+//TODO [Reference] 'Raw stone, mined from more stone.'
+staxel.item.crafting.RawStone.description=
+//TODO [Reference] 'Raw Stone'
+staxel.item.crafting.RawStone.name=
+//TODO [Reference] 'Raw wood, harvested from nature.'
+staxel.item.crafting.RawWood.description=
+//TODO [Reference] 'Raw Wood'
+staxel.item.crafting.RawWood.name=
+//TODO [Reference] 'This juice has a vague, red flavour.'
+staxel.item.crafting.RedJuice.description=
+//TODO [Reference] 'Red Juice'
+staxel.item.crafting.RedJuice.name=
+//TODO [Reference] 'Salt, one of the five basic taste sensations, and a fantastic way to spice up a bland dish.'
+staxel.item.crafting.Salt.description=
+//TODO [Reference] 'Salt'
+staxel.item.crafting.Salt.name=
+//TODO [Reference] 'A traditional cheese sandwich.'
+staxel.item.crafting.SandwichCheese.description=
+//TODO [Reference] 'Cheese Sandwich'
+staxel.item.crafting.SandwichCheese.name=
+//TODO [Reference] 'A cheese & tomato sandwich for the adventurous.'
+staxel.item.crafting.SandwichCheeseTomato.description=
+//TODO [Reference] 'Cheese & Tomato Sandwich'
+staxel.item.crafting.SandwichCheeseTomato.name=
+//TODO [Reference] ''
+staxel.item.crafting.SauceApple.description=
+//TODO [Reference] 'Apple Sauce'
+staxel.item.crafting.SauceApple.name=
+//TODO [Reference] ''
+staxel.item.crafting.SaucePeach.description=
+//TODO [Reference] 'Peach Sauce'
+staxel.item.crafting.SaucePeach.name=
+//TODO [Reference] ''
+staxel.item.crafting.SoupBeetroot.description=
+//TODO [Reference] 'Beetroot Soup'
+staxel.item.crafting.SoupBeetroot.name=
+//TODO [Reference] ''
+staxel.item.crafting.SoupCabbage.description=
+//TODO [Reference] 'Cabbage Soup'
+staxel.item.crafting.SoupCabbage.name=
+//TODO [Reference] ''
+staxel.item.crafting.SoupCarrot.description=
+//TODO [Reference] 'Carrot Soup'
+staxel.item.crafting.SoupCarrot.name=
+//TODO [Reference] ''
+staxel.item.crafting.SoupPumpkin.description=
+//TODO [Reference] 'Pumpkin Soup'
+staxel.item.crafting.SoupPumpkin.name=
+//TODO [Reference] 'It's great tucking into some tomato soup while it's raining outside.'
+staxel.item.crafting.SoupTomato.description=
+//TODO [Reference] 'Tomato Soup'
+staxel.item.crafting.SoupTomato.name=
+//TODO [Reference] ''
+staxel.item.crafting.SoupTurnip.description=
+//TODO [Reference] 'Turnip Soup'
+staxel.item.crafting.SoupTurnip.name=
+//TODO [Reference] 'Made from assorted vegetables.'
+staxel.item.crafting.SoupVegetable.description=
+//TODO [Reference] 'Vegetable Soup'
+staxel.item.crafting.SoupVegetable.name=
+//TODO [Reference] 'A genius invention which makes eating certain things easier.'
+staxel.item.crafting.Spoon.description=
+//TODO [Reference] 'Spoon'
+staxel.item.crafting.Spoon.name=
+//TODO [Reference] 'Juicy, juicy strawberries!'
+staxel.item.crafting.Strawberries.description=
+//TODO [Reference] 'Strawberries'
+staxel.item.crafting.Strawberries.name=
+//TODO [Reference] 'Just when you thought muffins couldn't get any better, someone went and added strawberries.'
+staxel.item.crafting.StrawberryMuffins.description=
+//TODO [Reference] 'Strawberry Muffins'
+staxel.item.crafting.StrawberryMuffins.name=
+//TODO [Reference] 'It's like cheese, but with holes.'
+staxel.item.crafting.SwissCheeseSlice.description=
+//TODO [Reference] 'Swiss Cheese'
+staxel.item.crafting.SwissCheeseSlice.name=
+//TODO [Reference] 'Sweet, thick syrup. Great with pancakes, and many other things too!'
+staxel.item.crafting.Syrup.description=
+//TODO [Reference] 'Syrup'
+staxel.item.crafting.Syrup.name=
+//TODO [Reference] 'A perfectly toasted cheese toastie.'
+staxel.item.crafting.ToastieCheese.description=
+//TODO [Reference] 'Cheese Toastie'
+staxel.item.crafting.ToastieCheese.name=
+//TODO [Reference] 'All that melty cheese with tomatos, mmmm.'
+staxel.item.crafting.ToastieCheeseTomato.description=
+//TODO [Reference] 'Cheese & Tomato Toastie'
+staxel.item.crafting.ToastieCheeseTomato.name=
+//TODO [Reference] 'Chopped up tomato'
+staxel.item.crafting.TomatoCut.description=
+//TODO [Reference] 'Chopped Tomato'
+staxel.item.crafting.TomatoCut.name=
+//TODO [Reference] 'A colourful dish made with assorted vegetables. It has the perfect balance of sweet and savoury, delicious!'
+staxel.item.crafting.VegetableMedley.description=
+//TODO [Reference] 'Vegetable Medley'
+staxel.item.crafting.VegetableMedley.name=
+//TODO [Reference] 'A jar of water.'
+staxel.item.crafting.WaterJar.description=
+//TODO [Reference] 'Jar of Water'
+staxel.item.crafting.WaterJar.name=
+//TODO [Reference] 'A tool useful for whisking, and a relative name to boot!'
+staxel.item.crafting.Whisk.description=
+//TODO [Reference] 'Whisk'
+staxel.item.crafting.Whisk.name=
+//TODO [Reference] 'A lot of teeny tiny crystals that are very sweet.'
+staxel.item.crafting.WhiteSugar.description=
+//TODO [Reference] 'White Sugar'
+staxel.item.crafting.WhiteSugar.name=
+//TODO [Reference] 'Wooden planks processed from raw wood. Useful for crafting.'
+staxel.item.crafting.WoodPlanks.description=
+//TODO [Reference] 'Wooden Planks'
+staxel.item.crafting.WoodPlanks.name=
+//TODO [Reference] 'Raw wood that's been processed into wooden planks.'
+staxel.item.crafting.WoodPlankTileItem.description=
+//TODO [Reference] 'Wooden Planks'
+staxel.item.crafting.WoodPlankTileItem.name=
+//TODO [Reference] 'Raw wood which has been processed into a wood plank wall.'
+staxel.item.crafting.WoodPlankWallItem.description=
+//TODO [Reference] 'Wood plank wall.'
+staxel.item.crafting.WoodPlankWallItem.name=
+//TODO [Reference] 'Fresh from a very cute sheep, this wool has many different uses!'
+staxel.item.crafting.Wool.description=
+//TODO [Reference] 'Wool'
+staxel.item.crafting.Wool.name=
+//TODO [Reference] ''
+staxel.item.crafting.Yeast.description=
+//TODO [Reference] 'Yeast'
+staxel.item.crafting.Yeast.name=
+//TODO [Reference] 'This juice looks zingy!'
+staxel.item.crafting.YellowJuice.description=
+//TODO [Reference] 'Yellow Juice'
+staxel.item.crafting.YellowJuice.name=
+//TODO [Reference] ''
+staxel.item.crafting.Yoghurt.description=
+//TODO [Reference] Yoghurt''
+staxel.item.crafting.Yoghurt.name=
+//TODO [Reference] 'A delicious, juicy, crunchy apple.'
+staxel.item.crops.Apple.description=
+//TODO [Reference] 'Apple'
+staxel.item.crops.Apple.name=
+//TODO [Reference] 'It looks perfectly ripened.'
+staxel.item.crops.Banana.description=
+//TODO [Reference] 'Banana'
+staxel.item.crops.Banana.name=
+//TODO [Reference] 'A brightly coloured beet.'
+staxel.item.crops.Beet.description=
+//TODO [Reference] 'Beet'
+staxel.item.crops.Beet.name=
+//TODO [Reference] 'Juicy shiny, blackberries.'
+staxel.item.crops.Blackberries.description=
+//TODO [Reference] 'Blackberries'
+staxel.item.crops.Blackberries.name=
+//TODO [Reference] 'Fresh blueberries, cool to the touch!'
+staxel.item.crops.Blueberries.description=
+//TODO [Reference] 'Blueberries'
+staxel.item.crops.Blueberries.name=
+//TODO [Reference] ''
+staxel.item.crops.Cabbage.description=
+//TODO [Reference] 'Cabbage'
+staxel.item.crops.Cabbage.name=
+//TODO [Reference] 'A healthy looking carrot.'
+staxel.item.crops.Carrot.description=
+//TODO [Reference] 'Carrot'
+staxel.item.crops.Carrot.name=
+//TODO [Reference] 'Fresh and sweet cherries.'
+staxel.item.crops.Cherries.description=
+//TODO [Reference] 'Cherries'
+staxel.item.crops.Cherries.name=
+//TODO [Reference] 'A fresh and sweet cherry.'
+staxel.item.crops.Cherry.description=
+//TODO [Reference] 'Cherry'
+staxel.item.crops.Cherry.name=
+//TODO [Reference] ''
+staxel.item.crops.Cocoa.description=
+//TODO [Reference] 'Cocoa'
+staxel.item.crops.Cocoa.name=
+//TODO [Reference] 'This is going to taste great... once you figure out how to crack it open.'
+staxel.item.crops.Coconut.description=
+//TODO [Reference] 'Coconut'
+staxel.item.crops.Coconut.name=
+//TODO [Reference] 'Delicious yellow corn.'
+staxel.item.crops.Corn.description=
+//TODO [Reference] 'Corn'
+staxel.item.crops.Corn.name=
+//TODO [Reference] 'A freshly grown cucumber.'
+staxel.item.crops.Cucumber.description=
+//TODO [Reference] 'Cucumber'
+staxel.item.crops.Cucumber.name=
+//TODO [Reference] 'What a beautiful looking fruit, it almost looks alien!'
+staxel.item.crops.DragonFruit.description=
+//TODO [Reference] 'Dragon Fruit'
+staxel.item.crops.DragonFruit.name=
+//TODO [Reference] 'A very shiny eggplant.'
+staxel.item.crops.Eggplant.description=
+//TODO [Reference] 'Eggplant'
+staxel.item.crops.Eggplant.name=
+//TODO [Reference] 'How strange, this beet is solid gold!'
+staxel.item.crops.GoldenBeet.description=
+//TODO [Reference] 'Golden Beet'
+staxel.item.crops.GoldenBeet.name=
+//TODO [Reference] 'Very pretty goldenberries.'
+staxel.item.crops.Goldenberries.description=
+//TODO [Reference] 'Golden Berries'
+staxel.item.crops.Goldenberries.name=
+//TODO [Reference] 'Oh my, this carrot is solid gold!'
+staxel.item.crops.GoldenCarrot.description=
+//TODO [Reference] 'Golden Carrot'
+staxel.item.crops.GoldenCarrot.name=
+//TODO [Reference] 'This corn is made of gold! Best make sure no kernels fall off!'
+staxel.item.crops.GoldenCorn.description=
+//TODO [Reference] 'Golden Corn'
+staxel.item.crops.GoldenCorn.name=
+//TODO [Reference] 'Wow, this cucumber is made of gold!'
+staxel.item.crops.GoldenCucumber.description=
+//TODO [Reference] 'Golden Cucumber'
+staxel.item.crops.GoldenCucumber.name=
+//TODO [Reference] 'This Eggplant is made of gold! Unfortunately, golden chickens don't hatch out of golden eggplants.'
+staxel.item.crops.GoldenEggplant.description=
+//TODO [Reference] 'Golden Eggplant'
+staxel.item.crops.GoldenEggplant.name=
+//TODO [Reference] 'This lettuce is made of gold! I hear this is what caesar salads were originally made with...'
+staxel.item.crops.GoldenLettuce.description=
+//TODO [Reference] 'Golden Lettuce'
+staxel.item.crops.GoldenLettuce.name=
+//TODO [Reference] 'These oats are more golden than usual! They don't taste as nice though...'
+staxel.item.crops.GoldenOats.description=
+//TODO [Reference] 'Golden Oats'
+staxel.item.crops.GoldenOats.name=
+//TODO [Reference] 'Wow, a golden onion! I'm tearing up!'
+staxel.item.crops.GoldenOnion.description=
+//TODO [Reference] 'Golden Onion'
+staxel.item.crops.GoldenOnion.name=
+//TODO [Reference] 'A golden potato, with golden eyes!'
+staxel.item.crops.GoldenPotato.description=
+//TODO [Reference] 'Golden Potato'
+staxel.item.crops.GoldenPotato.name=
+//TODO [Reference] 'Sweet! A golden sugar beet!'
+staxel.item.crops.GoldenSugarBeet.description=
+//TODO [Reference] 'Golden Sugar Beet'
+staxel.item.crops.GoldenSugarBeet.name=
+//TODO [Reference] 'Wow, a golden sugar cane!'
+staxel.item.crops.GoldenSugarCane.description=
+//TODO [Reference] 'Golden Sugar Cane'
+staxel.item.crops.GoldenSugarCane.name=
+//TODO [Reference] 'Woah, this Sweet Potato is solid gold!'
+staxel.item.crops.GoldenSweetPotato.description=
+//TODO [Reference] 'Golden Sweet Potato'
+staxel.item.crops.GoldenSweetPotato.name=
+//TODO [Reference] 'A golden tomato! I wonder what golden tomato soup would taste like...'
+staxel.item.crops.GoldenTomato.description=
+//TODO [Reference] 'Golden Tomato'
+staxel.item.crops.GoldenTomato.name=
+//TODO [Reference] 'Amazing, a golden turnip!'
+staxel.item.crops.GoldenTurnip.description=
+//TODO [Reference] 'Golden Turnip'
+staxel.item.crops.GoldenTurnip.name=
+//TODO [Reference] 'A fresh kiwi, apparently the skin is edible!'
+staxel.item.crops.Kiwi.description=
+//TODO [Reference] 'Kiwi'
+staxel.item.crops.Kiwi.name=
+//TODO [Reference] 'A yummy, sour fruit.'
+staxel.item.crops.Lemon.description=
+//TODO [Reference] 'Lemon'
+staxel.item.crops.Lemon.name=
+//TODO [Reference] 'A head of green lettuce'
+staxel.item.crops.Lettuce.description=
+//TODO [Reference] 'Lettuce'
+staxel.item.crops.Lettuce.name=
+//TODO [Reference] 'A brightly coloured lime green lime.'
+staxel.item.crops.Lime.description=
+//TODO [Reference] 'Lime'
+staxel.item.crops.Lime.name=
+//TODO [Reference] 'A very colourful fruit.'
+staxel.item.crops.Mango.description=
+//TODO [Reference] 'Mango'
+staxel.item.crops.Mango.name=
+//TODO [Reference] 'Fresh oats. What a fine grain!'
+staxel.item.crops.Oat.description=
+//TODO [Reference] 'Oats'
+staxel.item.crops.Oat.name=
+//TODO [Reference] 'Be careful when chopping!'
+staxel.item.crops.Onion.description=
+//TODO [Reference] 'Onion'
+staxel.item.crops.Onion.name=
+//TODO [Reference] 'An intensely orange orange.'
+staxel.item.crops.Orange.description=
+//TODO [Reference] 'Orange'
+staxel.item.crops.Orange.name=
+//TODO [Reference] 'A sweet, juicy peach.'
+staxel.item.crops.Peach.description=
+//TODO [Reference] 'Peach'
+staxel.item.crops.Peach.name=
+//TODO [Reference] 'A fresh, crunchy pear.'
+staxel.item.crops.Pear.description=
+//TODO [Reference] 'Pear'
+staxel.item.crops.Pear.name=
+//TODO [Reference] 'That one vegetable everybody loves.'
+staxel.item.crops.Potato.description=
+//TODO [Reference] 'Potato'
+staxel.item.crops.Potato.name=
+//TODO [Reference] 'The spookiest vegetable!'
+staxel.item.crops.Pumpkin.description=
+//TODO [Reference] 'Pumpkin'
+staxel.item.crops.Pumpkin.name=
+//TODO [Reference] 'Some soft, ripened raspberries'
+staxel.item.crops.Raspberries.description=
+//TODO [Reference] 'Raspberries'
+staxel.item.crops.Raspberries.name=
+//TODO [Reference] 'These strawberries look perfectly ripened!'
+staxel.item.crops.Strawberries.description=
+//TODO [Reference] 'Strawberries'
+staxel.item.crops.Strawberries.name=
+//TODO [Reference] 'A healthy looking sugar beet.'
+staxel.item.crops.SugarBeet.description=
+//TODO [Reference] 'Sugar Beet'
+staxel.item.crops.SugarBeet.name=
+//TODO [Reference] 'So sweet, I cane-not resist.'
+staxel.item.crops.SugarCane.description=
+//TODO [Reference] 'Sugar Cane'
+staxel.item.crops.SugarCane.name=
+//TODO [Reference] 'Like a potato, but kinder.'
+staxel.item.crops.SweetPotato.description=
+//TODO [Reference] 'Sweet Potato'
+staxel.item.crops.SweetPotato.name=
+//TODO [Reference] 'It's not an orange, it's a tangerine.'
+staxel.item.crops.Tangerine.description=
+//TODO [Reference] 'Tangerine'
+staxel.item.crops.Tangerine.name=
+//TODO [Reference] 'Fresh, soft and juicy! Mmm.'
+staxel.item.crops.Tomato.description=
+//TODO [Reference] 'Tomato'
+staxel.item.crops.Tomato.name=
+//TODO [Reference] 'The most popular crop for farming.'
+staxel.item.crops.Turnip.description=
+//TODO [Reference] 'Turnip'
+staxel.item.crops.Turnip.name=
+//TODO [Reference] 'The juiciest, red, fruit'
+staxel.item.crops.Watermelon.description=
+//TODO [Reference] 'Watermelon'
+staxel.item.crops.Watermelon.name=
+//TODO [Reference] ''
+staxel.item.currency.BronzePetalCoin.description=
+//TODO [Reference] 'Bronze Petal Coin'
+staxel.item.currency.BronzePetalCoin.name=
+//TODO [Reference] ''
+staxel.item.currency.GoldPetalCoin.description=
+//TODO [Reference] 'Gold Petal Coin'
+staxel.item.currency.GoldPetalCoin.name=
+//TODO [Reference] ''
+staxel.item.currency.PlatinumPetalCoin.description=
+//TODO [Reference] 'Platinum Petal Coin'
+staxel.item.currency.PlatinumPetalCoin.name=
+//TODO [Reference] ''
+staxel.item.currency.SilverPetalCoin.description=
+//TODO [Reference] 'Silver Petal Coin'
+staxel.item.currency.SilverPetalCoin.name=
+//TODO [Reference] 'A bag of chicken feed. The perfect food to keep your chickens happy and healthy.'
+staxel.item.farmAnimals.ChickenFood.description=
+//TODO [Reference] 'Chicken Food'
+staxel.item.farmAnimals.ChickenFood.name=
+//TODO [Reference] 'A bag of cow food. This will keep your cows well fed and happy.'
+staxel.item.farmAnimals.CowFood.description=
+//TODO [Reference] 'Cow Food'
+staxel.item.farmAnimals.CowFood.name=
+//TODO [Reference] 'It's not for everyone, but plants love it!'
+staxel.item.farmAnimals.CowSplat.description=
+//TODO [Reference] 'Cow Splat'
+staxel.item.farmAnimals.CowSplat.name=
+//TODO [Reference] 'A bag of trough food. This will keep your livestock well fed and happy. (Not for poultry.)'
+staxel.item.farmAnimals.TroughFood.description=
+//TODO [Reference] 'Trough Food'
+staxel.item.farmAnimals.TroughFood.name=
+//TODO [Reference] 'The license to your farm. You should treasure it.'
+staxel.item.FarmLicense.description=
+//TODO [Reference] 'Farm License'
+staxel.item.FarmLicense.name=
+//TODO [Reference] 'A letter that registers you and your farm. Better hand it to the Mayor quick!'
+staxel.item.FarmRegistrationLetter.description=
+//TODO [Reference] 'Farm Registration Letter'
+staxel.item.FarmRegistrationLetter.name=
+//TODO [Reference] 'A plain, but pretty, clay jar.'
+staxel.item.fluff.ClayJar1.description=
+//TODO [Reference] 'Clay Jar'
+staxel.item.fluff.ClayJar1.name=
+//TODO [Reference] 'A plain, but pretty, clay jar.'
+staxel.item.fluff.ClayJar2.description=
+//TODO [Reference] 'Clay Jar'
+staxel.item.fluff.ClayJar2.name=
+//TODO [Reference] 'A crate filled with assorted green fruit.'
+staxel.item.fluff.CrateGreenFruit.description=
+//TODO [Reference] 'Crate of Green Fruit'
+staxel.item.fluff.CrateGreenFruit.name=
+//TODO [Reference] 'A crate filled with assorted red fruit.'
+staxel.item.fluff.CrateRedFruit.description=
+//TODO [Reference] 'Crate of Red Fruit'
+staxel.item.fluff.CrateRedFruit.name=
+//TODO [Reference] 'A crate filled with assorted yellow fruit.'
+staxel.item.fluff.CrateYellowFruit.description=
+//TODO [Reference] 'Crate of Yellow Fruit'
+staxel.item.fluff.CrateYellowFruit.name=
+//TODO [Reference] 'A crate filled with fish, freshly caught!'
+staxel.item.fluff.FishTray1.description=
+//TODO [Reference] ''
+staxel.item.fluff.FishTray1.name=Crate of Fish
+//TODO [Reference] 'A crate filled with fish, freshly caught!'
+staxel.item.fluff.FishTray2.description=
+//TODO [Reference] 'Crate of Fish'
+staxel.item.fluff.FishTray2.name=
+//TODO [Reference] 'A candle that creates an orange light when lit.'
+staxel.item.fluff.OrangeCandle.description=
+//TODO [Reference] 'Orange Candle'
+staxel.item.fluff.OrangeCandle.name=
+//TODO [Reference] 'A candle that creates a purple light when lit.'
+staxel.item.fluff.PurpleCandle.description=
+//TODO [Reference] 'Purple Candle'
+staxel.item.fluff.PurpleCandle.name=
+//TODO [Reference] 'A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.'
+staxel.item.gatherable.Bee.description=
+//TODO [Reference] 'Worker Bee'
+staxel.item.gatherable.Bee.name=
+//TODO [Reference] 'A queen bee rules over a bee colony. She takes care of all the important decisions.'
+staxel.item.gatherable.BeeQueen.description=
+//TODO [Reference] 'Queen Bee'
+staxel.item.gatherable.BeeQueen.name=
+//TODO [Reference] ''
+staxel.item.gatherable.BlueTang.description=
+//TODO [Reference] 'Blue Tang'
+staxel.item.gatherable.BlueTang.name=
+//TODO [Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
+staxel.item.gatherable.BrownMushroom.description=
+//TODO [Reference] 'Brown Mushroom'
+staxel.item.gatherable.BrownMushroom.name=
+//TODO [Reference] ''
+staxel.item.gatherable.ClownFish.description=
+//TODO [Reference] 'Clown Fish'
+staxel.item.gatherable.ClownFish.name=
+//TODO [Reference] ''
+staxel.item.gatherable.Crab.description=
+//TODO [Reference] 'Crab'
+staxel.item.gatherable.Crab.name=
+//TODO [Reference] 'This Betta Fish has very elegent fins. They look like silk wings!'
+staxel.item.gatherable.FishBeta.description=
+//TODO [Reference] 'Betta Fish'
+staxel.item.gatherable.FishBeta.name=
+//TODO [Reference] ''
+staxel.item.gatherable.HermitShell.description=
+//TODO [Reference] 'Hermit Shell'
+staxel.item.gatherable.HermitShell.name=
+//TODO [Reference] 'A honey pot filled to the brim with honey. It looks so delicious!'
+staxel.item.gatherable.HoneyPotFull.description=
+//TODO [Reference] 'Full Honey Pot'
+staxel.item.gatherable.HoneyPotFull.name=
+//TODO [Reference] ''
+staxel.item.gatherable.Jellyfish.description=
+//TODO [Reference] 'Jellyfish'
+staxel.item.gatherable.Jellyfish.name=
+//TODO [Reference] ''
+staxel.item.gatherable.Octopus.description=
+//TODO [Reference] 'Octopus'
+staxel.item.gatherable.Octopus.name=
+//TODO [Reference] ''
+staxel.item.gatherable.PearlShell.description=
+//TODO [Reference] 'Pearl Shell'
+staxel.item.gatherable.PearlShell.name=
+//TODO [Reference] ''
+staxel.item.gatherable.RedCoral.description=
+//TODO [Reference] 'Red Coral'
+staxel.item.gatherable.RedCoral.name=
+//TODO [Reference] 'This red and white mushroom is very pretty, but it's not safe to eat!'
+staxel.item.gatherable.RedWhiteMushroom.description=
+//TODO [Reference] 'Red & White Mushroom'
+staxel.item.gatherable.RedWhiteMushroom.name=
+//TODO [Reference] 'And they said it wasn't possible.'
+staxel.item.gatherable.RhinoBeetle.description=
+//TODO [Reference] 'Rhino Beetle'
+staxel.item.gatherable.RhinoBeetle.name=
+//TODO [Reference] ''
+staxel.item.gatherable.Squid.description=
+//TODO [Reference] 'Squid'
+staxel.item.gatherable.Squid.name=
+//TODO [Reference] ''
+staxel.item.gatherable.Starfish.description=
+//TODO [Reference] 'Starfish'
+staxel.item.gatherable.Starfish.name=
+//TODO [Reference] ''
+staxel.item.gatherable.SwirlyShell.description=
+//TODO [Reference] 'Swirly Shell'
+staxel.item.gatherable.SwirlyShell.name=
+//TODO [Reference] 'White mushrooms pretty common, and taste great fried!'
+staxel.item.gatherable.WhiteMushrooms.description=
+//TODO [Reference] 'White Mushroom'
+staxel.item.gatherable.WhiteMushrooms.name=
+//TODO [Reference] ''
+staxel.item.generic.FireworkBlue.description=
+//TODO [Reference] 'Blue Firework'
+staxel.item.generic.FireworkBlue.name=
+//TODO [Reference] ''
+staxel.item.generic.FireworkGreen.description=
+//TODO [Reference] 'Green Firework'
+staxel.item.generic.FireworkGreen.name=
+//TODO [Reference] ''
+staxel.item.generic.FireworkRed.description=
+//TODO [Reference] 'Red Firework'
+staxel.item.generic.FireworkRed.name=
+//TODO [Reference] ''
+staxel.item.generic.GoalFirework.description=
+//TODO [Reference] 'Goal Firework'
+staxel.item.generic.GoalFirework.name=
+//TODO [Reference] 'Hit it with a stick!'
+staxel.item.generic.HockeyBall.description=
+//TODO [Reference] 'Hockey Ball'
+staxel.item.generic.HockeyBall.name=
+//TODO [Reference] ''
+staxel.item.generic.RedBook.description=
+//TODO [Reference] 'Red Book'
+staxel.item.generic.RedBook.name=
+//TODO [Reference] 'Use this when your pet is following you to have them do tricks!'
+staxel.item.generic.Whistle.description=
+//TODO [Reference] 'Whistle'
+staxel.item.generic.Whistle.name=
+//TODO [Reference] ''
+staxel.item.pets.PetFood.description=
+//TODO [Reference] 'Pet Food'
+staxel.item.pets.PetFood.name=
+//TODO [Reference] 'What is inside the present?'
+staxel.item.presents.TradePresent.description=
+//TODO [Reference] 'Present'
+staxel.item.presents.TradePresent.name=
+//TODO [Reference] ''
+staxel.item.quest.BlueLetter.description=
+//TODO [Reference] 'Blue Letter'
+staxel.item.quest.BlueLetter.name=
+//TODO [Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.BlueSocks.description=
+//TODO [Reference] 'Blue Socks'
+staxel.item.quest.BlueSocks.name=
+//TODO [Reference] 'Somebody forgot their gaming device!'
+staxel.item.quest.BlueVoxelboy.description=
+//TODO [Reference] 'Blue Voxelboy'
+staxel.item.quest.BlueVoxelboy.name=
+//TODO [Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhoneBlue.description=
+//TODO [Reference] 'Blue Bunny Phone'
+staxel.item.quest.BunnyPhoneBlue.name=
+//TODO [Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhonePink.description=
+//TODO [Reference] 'Pink Bunny Phone'
+staxel.item.quest.BunnyPhonePink.name=
+//TODO [Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhoneYellow.description=
+//TODO [Reference] 'Yellow Bunny Phone'
+staxel.item.quest.BunnyPhoneYellow.name=
+//TODO [Reference] ''
+staxel.item.quest.Parcel.description=
+//TODO [Reference] 'Parcel'
+staxel.item.quest.Parcel.name=
+//TODO [Reference] ''
+staxel.item.quest.PinkLetter.description=
+//TODO [Reference] 'Pink Letter'
+staxel.item.quest.PinkLetter.name=
+//TODO [Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.PinkSocks.description=
+//TODO [Reference] 'Pink Socks'
+staxel.item.quest.PinkSocks.name=
+//TODO [Reference] ''
+staxel.item.quest.YellowLetter.description=
+//TODO [Reference] 'Yellow Letter'
+staxel.item.quest.YellowLetter.name=
+//TODO [Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.YellowSocks.description=
+//TODO [Reference] 'Yellow Socks'
+staxel.item.quest.YellowSocks.name=
+//TODO [Reference] 'Somebody forgot their gaming device!'
+staxel.item.quest.YellowVoxelboy.description=
+//TODO [Reference] 'Yellow Voxelboy'
+staxel.item.quest.YellowVoxelboy.name=
+//TODO [Reference] ''
+staxel.item.seed.DarkFairyGrassSeedPacket.description=
+//TODO [Reference] 'Dark Fairy Grass Seed Packet'
+staxel.item.seed.DarkFairyGrassSeedPacket.name=
+//TODO [Reference] ''
+staxel.item.seed.FairyGrassSeedPacket.description=
+//TODO [Reference] 'Fairy Grass Seed Packet'
+staxel.item.seed.FairyGrassSeedPacket.name=
+//TODO [Reference] 'Seeds for growing grass.'
+staxel.item.seed.GrassSeedPacket.description=
+//TODO [Reference] 'Grass Seed Packet'
+staxel.item.seed.GrassSeedPacket.name=
+//TODO [Reference] 'Seeds for growing thick grass.'
+staxel.item.seed.ThickGrassSeedPacket.description=
+//TODO [Reference] 'Thick Grass Seed Packet'
+staxel.item.seed.ThickGrassSeedPacket.name=
+//TODO [Reference] 'A tool used to chop down big trees. Charge the tool to cut deeper.'
+staxel.item.tool.Axe.description=
+//TODO [Reference] 'Axe'
+staxel.item.tool.Axe.name=
+//TODO [Reference] 'Use to push dropped items, or play broom hockey!'
+staxel.item.tool.Broom.description=
+//TODO [Reference] 'Broom'
+staxel.item.tool.Broom.name=
+//TODO [Reference] 'Use this to capture farm animals!'
+staxel.item.tool.captureCrate.description=
+//TODO [Reference] 'Capture Crate'
+staxel.item.tool.captureCrate.name=
+//TODO [Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area'
+staxel.item.tool.Hammer.description=
+//TODO [Reference] 'Hammer'
+staxel.item.tool.Hammer.name=
+//TODO [Reference] 'Your hands.'
+staxel.item.tool.Hands.description=
+//TODO [Reference] 'your hands'
+staxel.item.tool.Hands.name=
+//TODO [Reference] 'A tool used to till the ground. Charge the tool to affect a larger area.'
+staxel.item.tool.Hoe.description=
+//TODO [Reference] 'Hoe'
+staxel.item.tool.Hoe.name=
+//TODO [Reference] 'Grows any crop instantly!'
+staxel.item.tool.MagicWater.description=
+//TODO [Reference] 'Magic Water'
+staxel.item.tool.MagicWater.name=
+//TODO [Reference] 'A tool used for investigating things.'
+staxel.item.tool.MagnifyingGlass.description=
+//TODO [Reference] 'Magnifying Glass'
+staxel.item.tool.MagnifyingGlass.name=
+//TODO [Reference] 'A tool used to milk a cow.'
+staxel.item.tool.Milker.description=
+//TODO [Reference] 'Milker'
+staxel.item.tool.Milker.name=
+//TODO [Reference] 'A bag of mixed seeds. What seeds will you plant? It's a mystery!'
+staxel.item.tool.MixedSeeds.description=
+//TODO [Reference] 'Bag of Mixed Seeds'
+staxel.item.tool.MixedSeeds.name=
+//TODO [Reference] 'A tool used to catch insects. Look on trees or amongst flowers!'
+staxel.item.tool.Net.description=
+//TODO [Reference] 'Bug Net'
+staxel.item.tool.Net.name=
+//TODO [Reference] 'A tool used to mine stone. Charge the tool to affect a larger area.'
+staxel.item.tool.Pickaxe.description=
+//TODO [Reference] 'Pickaxe'
+staxel.item.tool.Pickaxe.name=
+//TODO [Reference] 'A form used to (re)name animals.'
+staxel.item.tool.Renamer.description=
+//TODO [Reference] 'Naming Form'
+staxel.item.tool.Renamer.name=
+//TODO [Reference] 'A tool used to catch fish.'
+staxel.item.tool.Rod.description=
+//TODO [Reference] 'Fishing Rod'
+staxel.item.tool.Rod.name=
+//TODO [Reference] 'A tool used to cut down long grass, flowers, weeds and more! Charge the tool to cut more.'
+staxel.item.tool.Scythe.description=
+//TODO [Reference] 'Scythe'
+staxel.item.tool.Scythe.name=
+//TODO [Reference] 'A tool used to shear wool from sheep.'
+staxel.item.tool.Shears.description=
+//TODO [Reference] 'Sheep-Shears'
+staxel.item.tool.Shears.name=
+//TODO [Reference] 'A tool used to dig up earth. Charge the tool to dig more.'
+staxel.item.tool.Shovel.description=
+//TODO [Reference] 'Shovel'
+staxel.item.tool.Shovel.name=
+//TODO [Reference] 'A smoker is used to put bees into a comfortable sleep. This ensures safety when harvesting honey.'
+staxel.item.tool.Smoker.description=
+//TODO [Reference] 'Smoker'
+staxel.item.tool.Smoker.name=
+//TODO [Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan.description=
+//TODO [Reference] 'Watering Can'
+staxel.item.tool.WateringCan.name=

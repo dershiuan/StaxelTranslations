@@ -1,0 +1,80 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+
+//TODO [Reference] 'Accept'
+characterDesigner.accept=
+//TODO [Reference] 'Accessories'
+characterDesigner.accessories=
+//TODO [Reference] 'Cancel'
+characterDesigner.cancel=
+//TODO [Reference] 'Close'
+characterDesigner.close=
+//TODO [Reference] 'Eyes'
+characterDesigner.eyes=
+//TODO [Reference] 'Gender'
+characterDesigner.gender=
+//TODO [Reference] 'Hair'
+characterDesigner.hair=
+//TODO [Reference] 'Hat'
+characterDesigner.hat=
+//TODO [Reference] 'Make yourself pretty and stuff'
+characterDesigner.info=
+//TODO [Reference] 'Name'
+characterDesigner.name=
+//TODO [Reference] 'Next'
+characterDesigner.next=
+//TODO [Reference] 'None'
+characterDesigner.none=
+//TODO [Reference] 'Animations'
+characterDesigner.personality=
+//TODO [Reference] 'Presets'
+characterDesigner.presets=
+//TODO [Reference] 'Random'
+characterDesigner.random=
+//TODO [Reference] 'Shirt'
+characterDesigner.shirt=
+//TODO [Reference] 'Shoes'
+characterDesigner.shoes=
+//TODO [Reference] 'Skin'
+characterDesigner.skinColour=
+//TODO [Reference] 'Species'
+characterDesigner.species=
+//TODO [Reference] 'Start'
+characterDesigner.start=
+//TODO [Reference] 'Dress'
+characterDesigner.subcategory.dress=
+//TODO [Reference] 'Glasses'
+characterDesigner.subcategory.glasses=
+//TODO [Reference] 'Hat'
+characterDesigner.subcategory.hat=
+//TODO [Reference] 'Hi-Tops'
+characterDesigner.subcategory.hitops=
+//TODO [Reference] 'Hoodie'
+characterDesigner.subcategory.hoodie=
+//TODO [Reference] 'Jeans'
+characterDesigner.subcategory.jeans=
+//TODO [Reference] 'Long'
+characterDesigner.subcategory.long=
+//TODO [Reference] 'Longsleeve'
+characterDesigner.subcategory.longsleeve=
+//TODO [Reference] 'Medium'
+characterDesigner.subcategory.medium=
+//TODO [Reference] 'Sandals'
+characterDesigner.subcategory.sandals=
+//TODO [Reference] 'Short'
+characterDesigner.subcategory.short=
+//TODO [Reference] 'Shorts'
+characterDesigner.subcategory.shorts=
+//TODO [Reference] 'Straptop'
+characterDesigner.subcategory.straptop=
+//TODO [Reference] 'Trainers'
+characterDesigner.subcategory.trainers=
+//TODO [Reference] 'T-Shirt'
+characterDesigner.subcategory.tshirt=
+
+//TODO [Reference] 'Vest'
+characterDesigner.subcategory.vest=
+//TODO [Reference] 'Character Creation'
+characterDesigner.title=
+//TODO [Reference] 'Bottoms'
+characterDesigner.trousers=

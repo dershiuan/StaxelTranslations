@@ -1,0 +1,8 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Some tools can be charged to increase their effects.'
+staxel.village.dialogue.GeneralChat.5.line:10000100=
+//TODO [Reference] 'For example, a charged shovel will dig up a larger area.'
+staxel.village.dialogue.GeneralChat.5.line:10000200=
+//TODO [Reference] 'It can be very handy for clearing out large regions!'
+staxel.village.dialogue.GeneralChat.5.line:10000300=

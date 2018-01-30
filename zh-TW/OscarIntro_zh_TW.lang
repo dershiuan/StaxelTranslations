@@ -1,0 +1,8 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'What have we here? Another troublemaker?'
+staxel.village.dialogue.intro.Oscar.line:10000100=
+//TODO [Reference] '^c:1486b0;{0-name}^c:pop;'s the name. I'll be keeping an eye on you.'
+staxel.village.dialogue.intro.Oscar.line:10000200=
+//TODO [Reference] 'Oh, and stay off the grass! Keep the mud to the farm!'
+staxel.village.dialogue.intro.Oscar.line:10000300=

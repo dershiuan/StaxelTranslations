@@ -1,0 +1,6 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'The sun is out, it's nice and warm.'
+staxel.village.dialogue.SunnyDay.line:10000100=
+//TODO [Reference] 'It's the perfect type of day to laze about and get nothing done.'
+staxel.village.dialogue.SunnyDay.line:10000200=

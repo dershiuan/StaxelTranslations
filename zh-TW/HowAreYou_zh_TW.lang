@@ -1,0 +1,6 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Hey! How's it going with you?'
+staxel.village.dialogue.HowAreYou.line:10000100=
+//TODO [Reference] 'Growing some vegetables or just running around town?'
+staxel.village.dialogue.HowAreYou.line:10000200=

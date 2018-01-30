@@ -1,0 +1,6 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'A thief in town? They won't steal any free drinks from me!'
+staxel.village.dialogue.BarkeepTheft.line:10000100=
+//TODO [Reference] 'Keep an eye out for suspicious characters.'
+staxel.village.dialogue.BarkeepTheft.line:10000200=

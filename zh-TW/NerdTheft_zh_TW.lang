@@ -1,0 +1,6 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'They're saying there's a thief in town!'
+staxel.village.dialogue.NerdTheft.line:10000100=
+//TODO [Reference] 'If only superheroes were real...'
+staxel.village.dialogue.NerdTheft.line:10000200=

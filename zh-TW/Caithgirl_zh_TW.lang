@@ -1,0 +1,10 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Mmmya?'
+staxel.village.dialogue.Caithgirl.line:10000100=
+//TODO [Reference] 'Do Caiths always end sentences with mya?'
+staxel.village.dialogue.Caithgirl.line:10000200=
+//TODO [Reference] 'N-no! Just sometimes...'
+staxel.village.dialogue.Caithgirl.line:10000300=
+//TODO [Reference] '...m-mya...'
+staxel.village.dialogue.Caithgirl.line:10000400=

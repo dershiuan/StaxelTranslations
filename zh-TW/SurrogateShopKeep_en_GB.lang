@@ -1,0 +1,38 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'I tried running this store with an honesty box one time...'
+staxel.village.dialogue.SurrogateShopKeep.line:10000100=
+//TODO [Reference] 'Never again.'
+staxel.village.dialogue.SurrogateShopKeep.line:10000200=
+//TODO [Reference] 'I don't own this store, I'm just watching it for a friend.'
+staxel.village.dialogue.SurrogateShopKeep.line:10000300=
+//TODO [Reference] 'Well more like acquaintance really...'
+staxel.village.dialogue.SurrogateShopKeep.line:10000400=
+//TODO [Reference] 'In fact I don't think I've seen her in a very long time.'
+staxel.village.dialogue.SurrogateShopKeep.line:10000500=
+//TODO [Reference] 'Wait a minute...'
+staxel.village.dialogue.SurrogateShopKeep.line:10000600=
+//TODO [Reference] 'I've been thinking of taking a vacation...'
+staxel.village.dialogue.SurrogateShopKeep.line:10000700=
+//TODO [Reference] 'But then who would watch the store?'
+staxel.village.dialogue.SurrogateShopKeep.line:10000800=
+//TODO [Reference] 'Welcome!'
+staxel.village.dialogue.SurrogateShopKeep.line:10000900=
+//TODO [Reference] 'Please buy something!'
+staxel.village.dialogue.SurrogateShopKeep.line:10001000=
+//TODO [Reference] 'Anything!'
+staxel.village.dialogue.SurrogateShopKeep.line:10001100=
+//TODO [Reference] 'A few times in the past, petals have gone missing from the cash register.'
+staxel.village.dialogue.SurrogateShopKeep.line:10001200=
+//TODO [Reference] 'I had to hike up the prices for a few days to compensate...'
+staxel.village.dialogue.SurrogateShopKeep.line:10001300=
+//TODO [Reference] 'Somehow the money found its way back though!'
+staxel.village.dialogue.SurrogateShopKeep.line:10001400=
+//TODO [Reference] 'I guess they must have felt pretty guilty about it.'
+staxel.village.dialogue.SurrogateShopKeep.line:10001500=
+//TODO [Reference] 'This place hasn't always been as well stocked as it is today.'
+staxel.village.dialogue.SurrogateShopKeep.line:10001600=
+//TODO [Reference] 'Back when I started minding the place, it only stocked basic groceries!'
+staxel.village.dialogue.SurrogateShopKeep.line:10001700=
+//TODO [Reference] 'I've done what I could to keep the store alive.'
+staxel.village.dialogue.SurrogateShopKeep.line:10001800=

@@ -1,0 +1,8 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'T'would seem some local has defiled our ^c:1486b0;shrine^c:pop;...'
+staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000100=
+//TODO [Reference] 'Would that they might step forwards and repair the damage...'
+staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000200=
+//TODO [Reference] 'Then perhaps the faire might continue...'
+staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000300=

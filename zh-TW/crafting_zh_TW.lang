@@ -1,0 +1,152 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.CakeCarrot.description=
+//TODO [Reference] 'Carrot Cake Recipe'
+staxel.crafting.recipes.CakeCarrot.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.CakeChocolate.description=
+//TODO [Reference] 'Chocolate Cake Recipe'
+staxel.crafting.recipes.CakeChocolate.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.CakePlain.description=
+//TODO [Reference] 'Cake Recipe'
+staxel.crafting.recipes.CakePlain.name=
+//TODO [Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
+staxel.crafting.recipes.ChocolateCake.description=
+//TODO [Reference] 'Chocolate Cake Recipe'
+staxel.crafting.recipes.ChocolateCake.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamBlackberry.description=
+//TODO [Reference] 'Blackberry Jam Recipe'
+staxel.crafting.recipes.JamBlackberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamBlueberry.description=
+//TODO [Reference] 'Blueberry Jam Recipe'
+staxel.crafting.recipes.JamBlueberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamCherry.description=
+//TODO [Reference] 'Cherry Jam Recipe'
+staxel.crafting.recipes.JamCherry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamDragonFruit.description=
+//TODO [Reference] 'Dragon Fruit Jam Recipe'
+staxel.crafting.recipes.JamDragonFruit.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamRaspberry.description=
+//TODO [Reference] 'Raspberry Jam Recipe'
+staxel.crafting.recipes.JamRaspberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamStrawberry.description=
+//TODO [Reference] 'Strawberry Jam Recipe'
+staxel.crafting.recipes.JamStrawberry.name=
+//TODO [Reference] ''
+staxel.crafting.recipes.MakeSugar1.description=
+
+//TODO [Reference] 'Sugar Recipe'
+staxel.crafting.recipes.MakeSugar1.name=
+//TODO [Reference] ''
+staxel.crafting.recipes.MakeSugar2.description=
+//TODO [Reference] 'Sugar Recipe'
+staxel.crafting.recipes.MakeSugar2.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.MarmaladeLemon.description=
+//TODO [Reference] 'Lemon Marmalade Recipe'
+staxel.crafting.recipes.MarmaladeLemon.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.MarmaladeLime.description=
+//TODO [Reference] ''
+staxel.crafting.recipes.MarmaladeLime.name=Lime Marmalade Recipe
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.MarmaladeOrange.description=
+//TODO [Reference] 'Orange Marmalade Recipe'
+staxel.crafting.recipes.MarmaladeOrange.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieApple.description=
+//TODO [Reference] 'Apple Pie Recipe'
+staxel.crafting.recipes.PieApple.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieBlackberry.description=
+//TODO [Reference] 'Blackberry Pie Recipe'
+staxel.crafting.recipes.PieBlackberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieBlueberry.description=
+//TODO [Reference] 'Blueberry Pie Recipe'
+staxel.crafting.recipes.PieBlueberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieCherry.description=
+//TODO [Reference] 'Cherry Pie Recipe'
+staxel.crafting.recipes.PieCherry.name=
+//TODO [Reference] ''
+staxel.crafting.recipes.PieCrust.description=
+//TODO [Reference] 'Pie Crust Recipe'
+staxel.crafting.recipes.PieCrust.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieDragonFruit.description=
+//TODO [Reference] 'Dragon Fruit Pie Recipe'
+staxel.crafting.recipes.PieDragonFruit.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieLemon.description=
+//TODO [Reference] 'Lemon Pie Recipe'
+staxel.crafting.recipes.PieLemon.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieLime.description=
+//TODO [Reference] 'Lime Pie Recipe'
+staxel.crafting.recipes.PieLime.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieOrange.description=
+//TODO [Reference] 'Orange Pie Recipe'
+staxel.crafting.recipes.PieOrange.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PiePeach.description=
+//TODO [Reference] 'Peach Pie Recipe'
+staxel.crafting.recipes.PiePeach.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieRaspberry.description=
+//TODO [Reference] 'Raspberry Pie Recipe'
+staxel.crafting.recipes.PieRaspberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieStrawberry.description=
+//TODO [Reference] 'Strawberry Pie Recipe'
+staxel.crafting.recipes.PieStrawberry.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieVegetable.description=
+//TODO [Reference] 'Vegetable Pie Recipe'
+staxel.crafting.recipes.PieVegetable.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SauceApple.description=
+//TODO [Reference] 'Apple Sauce Recipe'
+staxel.crafting.recipes.SauceApple.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SaucePeach.description=
+//TODO [Reference] 'Peach Sauce Recipe'
+staxel.crafting.recipes.SaucePeach.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupBeetroot.description=
+//TODO [Reference] 'Beetroot Soup Recipe'
+staxel.crafting.recipes.SoupBeetroot.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupCarrot.description=
+//TODO [Reference] 'Carrot Soup Recipe'
+staxel.crafting.recipes.SoupCarrot.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupPumpkin.description=
+//TODO [Reference] 'Pumpkin Soup Recipe'
+staxel.crafting.recipes.SoupPumpkin.name=
+//TODO [Reference] 'It's great tucking into some tomato soup while it's raining outside.'
+staxel.crafting.recipes.SoupTomato.description=
+//TODO [Reference] 'Tomato Soup Recipe'
+staxel.crafting.recipes.SoupTomato.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupTurnip.description=
+//TODO [Reference] 'Turnip Soup Recipe'
+staxel.crafting.recipes.SoupTurnip.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupVegetable.description=
+//TODO [Reference] 'Vegetable Soup Recipe'
+staxel.crafting.recipes.SoupVegetable.name=
+//TODO [Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.VegetableMedley.description=
+//TODO [Reference] 'Vegetable Medley Recipe'
+staxel.crafting.recipes.VegetableMedley.name=

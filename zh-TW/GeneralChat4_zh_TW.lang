@@ -1,0 +1,6 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'I heard that you could grow golden vegetables...'
+staxel.village.dialogue.GeneralChat.4.line:10000100=
+//TODO [Reference] 'I wonder if they make your teeth shine...'
+staxel.village.dialogue.GeneralChat.4.line:10000200=

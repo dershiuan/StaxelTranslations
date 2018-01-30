@@ -1,0 +1,46 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'They say the old farmhouse is haunted...'
+staxel.village.dialogue.job.BarkeepRumour.line:10000700=
+//TODO [Reference] 'At night you'll hear all sorts of strange sounds...'
+staxel.village.dialogue.job.BarkeepRumour.line:10000800=
+//TODO [Reference] 'Nah, I'm just messing with you!'
+staxel.village.dialogue.job.BarkeepRumour.line:10000900=
+//TODO [Reference] 'I've heard tell that there are fairies in the woodlands around here.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001000=
+//TODO [Reference] 'Not sure how reliable those stories are though...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001100=
+//TODO [Reference] 'No one seems to have seen any...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001200=
+//TODO [Reference] 'The old farmer used to tell tales of growing giant crops.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001300=
+//TODO [Reference] 'Can't say I've seen anyone have that kind of success since...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001400=
+//TODO [Reference] 'Watch out for that ^c:1486b0;Farm Fan^c:pop;...'
+staxel.village.dialogue.job.BarkeepRumour.line:10001500=
+//TODO [Reference] 'She can be a bit... overbearing at times.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001600=
+//TODO [Reference] 'I don't doubt she'll have plenty of useful tips for you though!'
+staxel.village.dialogue.job.BarkeepRumour.line:10001700=
+//TODO [Reference] 'No, I'm afraid I don't know her real name either.'
+staxel.village.dialogue.job.BarkeepRumour.line:10001800=
+//TODO [Reference] 'Our sap is the best you'll find anywhere in the region!'
+staxel.village.dialogue.job.BarkeepRumour.line:10001900=
+//TODO [Reference] 'The recipe is a secret though, so don't ask.'
+staxel.village.dialogue.job.BarkeepRumour.line:10002000=
+//TODO [Reference] 'Do we serve milk?'
+staxel.village.dialogue.job.BarkeepRumour.line:10002100=
+//TODO [Reference] 'No... why would you think that?'
+staxel.village.dialogue.job.BarkeepRumour.line:10002200=
+//TODO [Reference] 'Supposedly ^c:d03e37;baking^c:pop; can be quite profitable.'
+staxel.village.dialogue.job.BarkeepRumour.line:10002300=
+//TODO [Reference] 'It would be wonderful to have a ^c:1486b0;bakery^c:pop; around here.'
+staxel.village.dialogue.job.BarkeepRumour.line:10002400=
+//TODO [Reference] 'Perhaps someone will build one someday...'
+staxel.village.dialogue.job.BarkeepRumour.line:10002500=
+//TODO [Reference] 'That ^c:1486b0;{0-l_name}^c:pop; is a bit of a mystery...'
+staxel.village.dialogue.job.BarkeepRumour.line:10005000=
+//TODO [Reference] 'He was minding the store even back when I was a young lad.'
+staxel.village.dialogue.job.BarkeepRumour.line:10005100=
+//TODO [Reference] 'Hardly seems to have aged a day since...'
+staxel.village.dialogue.job.BarkeepRumour.line:10005200=

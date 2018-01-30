@@ -1,0 +1,320 @@
+language.code=en-GB
+language=English
+//TODO [Reference] 'Bugs can be sold for money.'
+staxel.achievement.Catch10Bug.description=
+//TODO [Reference] 'Catch 10 Bugs'
+staxel.achievement.Catch10Bug.name=
+//TODO [Reference] 'Use a fishing rod.'
+staxel.achievement.Catch10Fish.description=
+//TODO [Reference] 'Catch 10 Fish'
+staxel.achievement.Catch10Fish.name=
+//TODO [Reference] 'If only programming bugs were so easy to catch.'
+staxel.achievement.Catch100Bug.description=
+//TODO [Reference] 'Catch 100 Bugs'
+staxel.achievement.Catch100Bug.name=
+//TODO [Reference] 'Them's good eating!'
+staxel.achievement.Catch100Fish.description=
+//TODO [Reference] 'Catch 100 Fish'
+staxel.achievement.Catch100Fish.name=
+//TODO [Reference] 'Use a bug net.'
+staxel.achievement.CatchBug.description=
+//TODO [Reference] 'Catch a Bug'
+staxel.achievement.CatchBug.name=
+//TODO [Reference] 'CatchBugOneOfEach'
+staxel.achievement.CatchBugOneOfEach.description=
+//TODO [Reference] 'CatchBugOneOfEach'
+staxel.achievement.CatchBugOneOfEach.name=
+//TODO [Reference] 'Unleash your inner angler and reel in a nice catch.'
+staxel.achievement.CatchFish.description=
+//TODO [Reference] 'Catch a fish'
+staxel.achievement.CatchFish.name=
+//TODO [Reference] 'CatchFishOneOfEach'
+staxel.achievement.CatchFishOneOfEach.description=
+//TODO [Reference] 'CatchFishOneOfEach'
+staxel.achievement.CatchFishOneOfEach.name=
+//TODO [Reference] 'You can put them into Apiaries to make honey.'
+staxel.achievement.CatchQueen.description=
+//TODO [Reference] 'Catch a Queen Bee'
+staxel.achievement.CatchQueen.name=
+//TODO [Reference] 'Use a wardrobe to change the way you dress!'
+staxel.achievement.ChangeClothing.description=
+//TODO [Reference] 'Change Your Clothes'
+staxel.achievement.ChangeClothing.name=
+//TODO [Reference] 'Charge a tool all the way.'
+staxel.achievement.ChargeTool.description=
+//TODO [Reference] 'Charge a tool'
+staxel.achievement.ChargeTool.name=
+//TODO [Reference] 'Now you can call yourself a master chef.'
+staxel.achievement.Cook100.description=
+//TODO [Reference] 'Cook 100 items'
+staxel.achievement.Cook100.name=
+//TODO [Reference] 'Follow a cake recipe to bake a cake.'
+staxel.achievement.CookCake.description=
+//TODO [Reference] 'Bake a cake'
+staxel.achievement.CookCake.name=
+//TODO [Reference] 'Bake one of each cake.'
+staxel.achievement.CookCakeOneOfEach.description=
+//TODO [Reference] 'Bake One of Each Cake'
+staxel.achievement.CookCakeOneOfEach.name=
+//TODO [Reference] 'Follow a recipe to bake a pie.'
+staxel.achievement.CookPie.description=
+//TODO [Reference] 'Bake a Pie'
+staxel.achievement.CookPie.name=
+//TODO [Reference] 'Bake one of each type of pie.'
+staxel.achievement.CookPieOneOfEach.description=
+//TODO [Reference] 'Bake One of Each Pie'
+staxel.achievement.CookPieOneOfEach.name=
+//TODO [Reference] 'Follow a recipe to make a preserved fruit.'
+staxel.achievement.CookPreserve.description=
+//TODO [Reference] 'Cook a preserve'
+staxel.achievement.CookPreserve.name=
+//TODO [Reference] 'Cook one of each type of preserve.'
+staxel.achievement.CookPreserveOneOfEach.description=
+//TODO [Reference] 'Cook One of Each Preserve'
+staxel.achievement.CookPreserveOneOfEach.name=
+//TODO [Reference] 'Follow a recipe to cook a soup.'
+staxel.achievement.CookSoup.description=
+//TODO [Reference] 'Cook a Soup'
+staxel.achievement.CookSoup.name=
+//TODO [Reference] 'Cook one of each type of soup.'
+staxel.achievement.CookSoupOneOfEach.description=
+//TODO [Reference] 'Cook One of Each Soup'
+staxel.achievement.CookSoupOneOfEach.name=
+//TODO [Reference] 'Deliver your farm registration letter to the mayor.'
+staxel.achievement.DeliverLicense.description=
+//TODO [Reference] 'Deliver Farm Registration Letter'
+staxel.achievement.DeliverLicense.name=
+//TODO [Reference] 'Take a tool from the shelf.'
+staxel.achievement.EquipTool.description=
+//TODO [Reference] 'Equip a tool'
+staxel.achievement.EquipTool.name=
+//TODO [Reference] 'Fill your pet's food bowl with food.'
+staxel.achievement.FillFoodBowl.description=
+//TODO [Reference] 'Fill a Pet Food Bowl'
+staxel.achievement.FillFoodBowl.name=
+//TODO [Reference] 'Mushrooms are a great way to make money. Activate them to pick them up.'
+staxel.achievement.Gather10Mushrooms.description=
+//TODO [Reference] 'Gather 10 Mushrooms'
+staxel.achievement.Gather10Mushrooms.name=
+//TODO [Reference] 'Shells are a great way to make money. Activate them to pick them up.'
+staxel.achievement.Gather10Shells.description=
+//TODO [Reference] 'Gather 10 Shells'
+staxel.achievement.Gather10Shells.name=
+//TODO [Reference] 'Mushrooms are a great way to make money. Activate them to pick them up.'
+staxel.achievement.Gather100Mushrooms.description=
+//TODO [Reference] 'Gather 100 Mushrooms'
+staxel.achievement.Gather100Mushrooms.name=
+//TODO [Reference] 'Shells are a great way to make money. Activate them to pick them up.'
+staxel.achievement.Gather100Shells.description=
+//TODO [Reference] 'Gather 100 Shells'
+staxel.achievement.Gather100Shells.name=
+//TODO [Reference] 'GatherStarJelly'
+staxel.achievement.GatherStarJelly.description=
+//TODO [Reference] 'GatherStarJelly'
+staxel.achievement.GatherStarJelly.name=
+//TODO [Reference] 'These make eggs.'
+staxel.achievement.GetChicken.description=
+//TODO [Reference] 'Get a Chicken in a Crate'
+staxel.achievement.GetChicken.name=
+//TODO [Reference] 'A great source of milk.'
+staxel.achievement.GetCow.description=
+//TODO [Reference] 'Get a Cow in a Crate'
+staxel.achievement.GetCow.name=
+//TODO [Reference] 'A gift from your chickens!'
+staxel.achievement.GetEgg.description=
+//TODO [Reference] 'Pick up an Egg'
+staxel.achievement.GetEgg.name=
+//TODO [Reference] 'Don't put them all in one basket!'
+staxel.achievement.GetEgg100.description=
+//TODO [Reference] 'Pick up 100 Eggs'
+staxel.achievement.GetEgg100.name=
+//TODO [Reference] 'They love to play in the mud.'
+staxel.achievement.GetPig.description=
+//TODO [Reference] 'Get a Pig in a Crate'
+staxel.achievement.GetPig.name=
+//TODO [Reference] 'Don't forget to pick up after your animals!'
+staxel.achievement.GetPoops.description=
+//TODO [Reference] 'Pick up 100 Poops'
+staxel.achievement.GetPoops.name=
+//TODO [Reference] 'Your wooly friend.'
+staxel.achievement.GetSheep.description=
+//TODO [Reference] 'Get a Sheep in a Crate'
+staxel.achievement.GetSheep.name=
+//TODO [Reference] 'It's harvest time! Bring in the bounty!'
+staxel.achievement.HarvestCrop.description=
+//TODO [Reference] 'Harvest a crop'
+staxel.achievement.HarvestCrop.name=
+//TODO [Reference] 'You'll need to populate an Apiary for this.'
+staxel.achievement.HarvestHoney.description=
+//TODO [Reference] 'Harvest Honey'
+staxel.achievement.HarvestHoney.name=
+//TODO [Reference] 'LootTreasure'
+staxel.achievement.LootTreasure.description=
+//TODO [Reference] 'LootTreasure'
+staxel.achievement.LootTreasure.name=
+//TODO [Reference] 'Follow a recipe to make some delicious jam.'
+staxel.achievement.MakeJam.description=
+//TODO [Reference] 'Make jam'
+staxel.achievement.MakeJam.name=
+//TODO [Reference] 'Don't forget to milk them every day!'
+staxel.achievement.MilkCow.description=
+//TODO [Reference] 'Milk a Cow'
+staxel.achievement.MilkCow.name=
+//TODO [Reference] 'Do these things ever run out of milk?'
+staxel.achievement.MilkCow100.description=
+//TODO [Reference] 'Milk a Cow 100 Times'
+staxel.achievement.MilkCow100.name=
+//TODO [Reference] 'Scythe plants to get 10 mixed seeds.'
+staxel.achievement.Mixed10.description=
+//TODO [Reference] 'Find 10 Mixed Seeds'
+staxel.achievement.Mixed10.name=
+//TODO [Reference] 'Find 100 mixed seeds. Ah the smell of fresh cut grass.'
+staxel.achievement.Mixed100.description=
+//TODO [Reference] 'Find 100 Mixed Seeds'
+staxel.achievement.Mixed100.name=
+//TODO [Reference] 'Order 10 items from the catalogue.'
+staxel.achievement.Order10.description=
+//TODO [Reference] 'Order 10 Items'
+staxel.achievement.Order10.name=
+//TODO [Reference] 'Order 100 items from the catalogue.'
+staxel.achievement.Order100.description=
+//TODO [Reference] 'Order 100 Items'
+staxel.achievement.Order100.name=
+//TODO [Reference] 'Place an order for any item in the shipping catalogue.'
+staxel.achievement.OrderItem.description=
+//TODO [Reference] 'Order an item'
+staxel.achievement.OrderItem.name=
+//TODO [Reference] 'Get to building!'
+staxel.achievement.Place100Blocks.description=
+//TODO [Reference] 'Place 100 Blocks'
+staxel.achievement.Place100Blocks.name=
+//TODO [Reference] 'You can build a mansion with all these blocks.'
+staxel.achievement.Place1000Blocks.description=
+//TODO [Reference] 'Place 1000 Blocks'
+staxel.achievement.Place1000Blocks.name=
+//TODO [Reference] 'Place a boiling, chopping, baking, mixing, and frying station.'
+staxel.achievement.PlaceCookingStuff.description=
+//TODO [Reference] 'Place Cooking Stations'
+staxel.achievement.PlaceCookingStuff.name=
+//TODO [Reference] 'Buy and place a seedmaker.'
+staxel.achievement.PlaceSeedMaker.description=
+//TODO [Reference] 'Place a Seedmaker'
+staxel.achievement.PlaceSeedMaker.name=
+//TODO [Reference] 'Place a shipping catalogue and a shipping station.'
+staxel.achievement.PlaceShipping.description=
+//TODO [Reference] 'Place Shipping Stations'
+staxel.achievement.PlaceShipping.name=
+//TODO [Reference] 'Now you're getting the hang of it!'
+staxel.achievement.Plant10.description=
+//TODO [Reference] 'Plant 10 Seeds'
+staxel.achievement.Plant10.name=
+//TODO [Reference] 'Just think of all the petals you can sell the crops for!'
+staxel.achievement.Plant50.description=
+//TODO [Reference] 'Plant 50 Seeds'
+staxel.achievement.Plant50.name=
+//TODO [Reference] 'You're well on your way to a thriving farm.'
+staxel.achievement.Plant100.description=
+//TODO [Reference] 'Plant 100 Seeds'
+staxel.achievement.Plant100.name=
+//TODO [Reference] 'You're half way to being able to call yourself a master farmer.'
+staxel.achievement.Plant500.description=
+//TODO [Reference] 'Plant 500 Seeds'
+staxel.achievement.Plant500.name=
+//TODO [Reference] 'You're a legend amongst farmers!'
+staxel.achievement.Plant1000.description=
+//TODO [Reference] 'Plant 1000 Seeds'
+staxel.achievement.Plant1000.name=
+//TODO [Reference] 'Plant a seed in tilled soil.'
+staxel.achievement.PlantCrop.description=
+//TODO [Reference] 'Plant a Seed'
+staxel.achievement.PlantCrop.name=
+//TODO [Reference] 'Grab a pickaxe and mine some stone!'
+staxel.achievement.RawStone.description=
+//TODO [Reference] 'Mine Raw Stone'
+staxel.achievement.RawStone.name=
+//TODO [Reference] 'Mine 100 raw stone.'
+staxel.achievement.RawStone100.description=
+//TODO [Reference] 'Mine 100 Raw Stone'
+staxel.achievement.RawStone100.name=
+//TODO [Reference] 'You must've mined out a mountain by now.'
+staxel.achievement.RawStone1000.description=
+//TODO [Reference] 'Mine 1000 Raw Stone'
+staxel.achievement.RawStone1000.name=
+//TODO [Reference] 'Chop some raw wood.'
+staxel.achievement.RawWood.description=
+//TODO [Reference] 'Chop Raw Wood'
+staxel.achievement.RawWood.name=
+//TODO [Reference] 'Chop 100 raw wood.'
+staxel.achievement.RawWood100.description=
+//TODO [Reference] 'Chop 100 Raw Wood'
+staxel.achievement.RawWood100.name=
+//TODO [Reference] 'Careful. Deforestation is a serious problem.'
+staxel.achievement.RawWood1000.description=
+//TODO [Reference] 'Chop 1000 Raw Wood'
+staxel.achievement.RawWood1000.name=
+//TODO [Reference] 'Use the seedmaker to reap 10 seeds.'
+staxel.achievement.Reap10.description=
+//TODO [Reference] 'Reap 10 Seeds'
+staxel.achievement.Reap10.name=
+//TODO [Reference] 'Get a gold seed from the seedmaker.'
+staxel.achievement.ReapGold.description=
+//TODO [Reference] 'Reap a Gold Seed'
+staxel.achievement.ReapGold.name=
+//TODO [Reference] 'Sell one of your freshly harvested crops via the shipping station.'
+staxel.achievement.SellItem.description=
+//TODO [Reference] 'Sell a crop'
+staxel.achievement.SellItem.name=
+//TODO [Reference] 'Shear a Sheep. Don't worry, they'll be fine!'
+staxel.achievement.ShearSheep.description=
+//TODO [Reference] 'Shear a Sheep'
+staxel.achievement.ShearSheep.name=
+//TODO [Reference] 'Rev up those shears!'
+staxel.achievement.ShearSheep100.description=
+//TODO [Reference] 'Shear a Sheep 100 Times'
+staxel.achievement.ShearSheep100.name=
+//TODO [Reference] 'SweepBall'
+staxel.achievement.SweepBall.description=
+//TODO [Reference] 'SweepBall'
+staxel.achievement.SweepBall.name=
+//TODO [Reference] 'Use right click or left trigger to talk to her.'
+staxel.achievement.TalkFarmFan.description=
+//TODO [Reference] 'Talk to Farm Fan'
+staxel.achievement.TalkFarmFan.name=
+//TODO [Reference] 'Throw a ball for your pet. They'll fetch it if they're following you!'
+staxel.achievement.ThrowBall.description=
+//TODO [Reference] 'Throw a Ball'
+staxel.achievement.ThrowBall.name=
+//TODO [Reference] 'Tick the circle in the recipe menu to get an overlay.'
+staxel.achievement.UseRecipeOverlay.description=
+//TODO [Reference] 'Use Recipe Overlay'
+staxel.achievement.UseRecipeOverlay.name=
+//TODO [Reference] 'Use the watering can to water a crop.'
+staxel.achievement.WaterCrop.description=
+//TODO [Reference] 'Water a crop'
+staxel.achievement.WaterCrop.name=
+//TODO [Reference] 'Use a wardrobe to change your clothing'
+staxel.achievements.changeClothing=
+//TODO [Reference] 'Charge a tool all the way'
+staxel.achievements.chargeMax=
+//TODO [Reference] 'Orders placed for {0-item}'
+staxel.achievements.descriptions.OrderItem.text=
+//TODO [Reference] '{0-item} placed'
+staxel.achievements.descriptions.PlaceItem.text=
+//TODO [Reference] '{0-item} planted'
+staxel.achievements.descriptions.PlantItem.text=
+//TODO [Reference] 'Sales of {0-item}'
+staxel.achievements.descriptions.SellItem.text=
+//TODO [Reference] 'lootTreasure'
+staxel.achievements.lootTreasure=
+//TODO [Reference] 'Reward:'
+staxel.achievements.reward=
+//TODO [Reference] 'sweepBall'
+staxel.achievements.sweepBall=
+//TODO [Reference] 'Use right click or left trigger to talk to her'
+staxel.achievements.talkFarmFanOverlay=
+//TODO [Reference] 'Throw a Ball'
+staxel.achievements.throw=
+//TODO [Reference] 'Use Recipe Overlay'
+staxel.achievements.UseRecipeOverlay=
+//TODO [Reference] 'Crops watered'
+staxel.achievements.WaterCrop.text=

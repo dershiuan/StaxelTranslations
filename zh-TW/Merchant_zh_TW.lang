@@ -1,0 +1,16 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Hey! I'm {0-name} the merchant!'
+staxel.village.dialogue.Merchant.line:10000100=
+//TODO [Reference] 'That's just my name; don't actually rob me.'
+staxel.village.dialogue.Merchant.line:10000200=
+//TODO [Reference] 'Want to buy something?'
+staxel.village.dialogue.Merchant.line:10000300=
+//TODO [Reference] 'Pleasure doing business!'
+staxel.village.dialogue.Merchant.line:10000400=
+//TODO [Reference] 'I'll buy that!'
+staxel.village.dialogue.Merchant.line:10000500=
+//TODO [Reference] 'You can put the item you bought back if you change your mind.'
+staxel.village.dialogue.Merchant.line:10000600=
+//TODO [Reference] 'To sell me stuff, put it on the little table and activate it.'
+staxel.village.dialogue.Merchant.line:10000700=

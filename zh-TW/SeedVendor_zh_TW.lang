@@ -1,0 +1,12 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Hi there. I'm {0-name}.'
+staxel.village.dialogue.SeedVendor.line:10000100=
+//TODO [Reference] 'I sell seeds.'
+staxel.village.dialogue.SeedVendor.line:10000200=
+//TODO [Reference] 'Rob sells magic water if you want them to grow fast.'
+staxel.village.dialogue.SeedVendor.line:10000300=
+//TODO [Reference] 'Thanks.'
+staxel.village.dialogue.SeedVendor.line:10000400=
+//TODO [Reference] 'Thanks.'
+staxel.village.dialogue.SeedVendor.line:10000500=

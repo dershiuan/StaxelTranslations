@@ -1,0 +1,10 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Why am I not watching over the ^c:1486b0;tavern^c:pop; you ask?'
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000100=
+//TODO [Reference] 'It seems some hooligan went and tore part of it down...'
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000200=
+//TODO [Reference] 'So I'm taking some well deserved time off!'
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000300=
+//TODO [Reference] 'I'll consider getting back to work once it's repaired.'
+staxel.village.dialogue.job.BarkeepWorkPlaceMissing.line:10000400=

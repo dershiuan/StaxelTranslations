@@ -1,0 +1,50 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Oh no...'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000100=
+//TODO [Reference] 'I can't find my ^c:d03e37;{0-item}^c:pop; anywhere!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000200=
+//TODO [Reference] 'What should I do? My life is ruined!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000300=
+//TODO [Reference] 'I'll go look for it!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000400=
+//TODO [Reference] 'I hope you find it soon.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000500=
+//TODO [Reference] 'You will? Oh thank you ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000600=
+//TODO [Reference] 'Please bring it to me as soon as you find it!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000700=
+//TODO [Reference] 'Please let me know if you find my ^c:d03e37;{0-item}^c:pop;...'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000800=
+//TODO [Reference] 'Sure thing!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000900=
+//TODO [Reference] 'Stop talking about it.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001000=
+//TODO [Reference] 'Thank you ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001100=
+//TODO [Reference] 'Please tell me if you see it anywhere.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001200=
+//TODO [Reference] 'Oh, you found my ^c:d03e37;{0-item}^c:pop;! Thank you!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001300=
+//TODO [Reference] 'Thank you so much!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001400=
+//TODO [Reference] 'What are you waiting for? Hand it over!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001500=
+//TODO [Reference] 'Of course!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001600=
+//TODO [Reference] 'Um... not yet.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001700=
+//TODO [Reference] 'Thank you so much!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001800=
+//TODO [Reference] 'I don't know what I would have done without you!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001900=
+//TODO [Reference] 'Please, let me give you this as a thanks!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002000=
+//TODO [Reference] 'Wha-?'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002100=
+//TODO [Reference] 'But... it's mine...?'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002200=
+//TODO [Reference] 'Oh... okay. I understand.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002300=
+//TODO [Reference] 'I won't mention it again.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002400=

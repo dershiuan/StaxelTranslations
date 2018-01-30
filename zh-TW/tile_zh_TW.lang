@@ -1,0 +1,615 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+
+//TODO [Reference] 'This a simple black block.'
+staxel.tile.color.Color.black.description=
+//TODO [Reference] 'Black Block'
+staxel.tile.color.Color.black.name=
+//TODO [Reference] 'This a simple red block.'
+staxel.tile.color.Color.red.description=
+//TODO [Reference] 'Red Block'
+staxel.tile.color.Color.red.name=
+//TODO [Reference] 'This a simple test block.'
+staxel.tile.color.Color.test.description=
+//TODO [Reference] 'Test Block'
+staxel.tile.color.Color.test.name=
+//TODO [Reference] 'This a simple test stairs block.'
+staxel.tile.color.Color.test.stairs.description=
+//TODO [Reference] 'Test Stairs Block'
+staxel.tile.color.Color.test.stairs.name=
+//TODO [Reference] 'This a simple white block.'
+staxel.tile.color.Color.white.description=
+//TODO [Reference] 'White Block'
+staxel.tile.color.Color.white.name=
+//TODO [Reference] 'This a simple yellow block.'
+staxel.tile.color.Color.yellow.description=
+//TODO [Reference] 'Yellow Block'
+staxel.tile.color.Color.yellow.name=
+
+//TODO [Reference] 'This grass is purple... how spooky!'
+staxel.tile.creepy.PurpleGrassLayer.1.description=
+//TODO [Reference] 'Purple Grass Block'
+staxel.tile.creepy.PurpleGrassLayer.1.name=
+//TODO [Reference] 'This grass is purple... how spooky!'
+staxel.tile.creepy.PurpleGrassLayer.2.description=
+//TODO [Reference] 'Long Purple Grass Block'
+staxel.tile.creepy.PurpleGrassLayer.2.name=
+
+//TODO [Reference] 'Good, rich soil. Perfect for crop growing.'
+staxel.tile.dirt.Dirt.description=
+//TODO [Reference] 'Dirt Block'
+staxel.tile.dirt.Dirt.name=
+//TODO [Reference] 'This dirt block is tilled, ready for crops!'
+staxel.tile.dirt.Dirt.tilled.description=
+//TODO [Reference] 'Tilled Dirt Block'
+staxel.tile.dirt.Dirt.tilled.name=
+//TODO [Reference] 'This tilled dirt block has been watered.'
+staxel.tile.dirt.Dirt.watered.description=
+//TODO [Reference] 'Damp Tilled Dirt Block'
+staxel.tile.dirt.Dirt.watered.name=
+//TODO [Reference] 'Dirt block border'
+staxel.tile.dirt.DirtBorder2.description=
+//TODO [Reference] 'Dirt Border'
+staxel.tile.dirt.DirtBorder2.name=
+
+//TODO [Reference] 'A flooring perfect for basements, dungeons or just about any underground building.'
+staxel.tile.dungeon.Dungeon1.description=
+//TODO [Reference] 'Dungeon Floor'
+staxel.tile.dungeon.Dungeon1.name=
+//TODO [Reference] 'A neat, sturdy, stone block.'
+staxel.tile.dungeon.DungeonStep.description=
+//TODO [Reference] 'Dungeon Stone Block'
+staxel.tile.dungeon.DungeonStep.name=
+//TODO [Reference] 'Dungeon flooring with small tiles and a white trim.'
+staxel.tile.dungeon.Dungeontile1.description=
+//TODO [Reference] 'Trimmed Dungeon Floor'
+staxel.tile.dungeon.Dungeontile1.name=
+//TODO [Reference] 'Dungeon flooring with a white trim.'
+staxel.tile.dungeon.Dungeontile2.description=
+//TODO [Reference] 'Trimmed Dungeon Floor'
+staxel.tile.dungeon.Dungeontile2.name=
+//TODO [Reference] 'Thick Dungeon block with a second layer of trim.'
+staxel.tile.dungeon.DungeonWall.description=
+//TODO [Reference] 'Trimmed Dungeon Stone Block'
+staxel.tile.dungeon.DungeonWall.name=
+
+//TODO [Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
+staxel.tile.fairyVillage.FairyGrassLayer.1.description=
+//TODO [Reference] 'Pink Fairy Grass Block'
+staxel.tile.fairyVillage.FairyGrassLayer.1.name=
+//TODO [Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
+staxel.tile.fairyVillage.FairyGrassLayer.2.description=
+//TODO [Reference] 'Long Pink Fairy Grass Block'
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=
+//TODO [Reference] ''
+staxel.tile.grass.ForestGrassLayer.1.description=
+//TODO [Reference] 'Forest Grass Block'
+staxel.tile.grass.ForestGrassLayer.1.name=
+//TODO [Reference] ''
+staxel.tile.grass.ForestGrassLayer.2.description=
+//TODO [Reference] 'Long Forest Grass Block'
+staxel.tile.grass.ForestGrassLayer.2.name=
+
+//TODO [Reference] 'Soft, green grass.'
+staxel.tile.grass.Grass.description=
+//TODO [Reference] 'Grass Block'
+staxel.tile.grass.Grass.name=
+//TODO [Reference] 'Grass Block Border'
+staxel.tile.grass.GrassBorder2.description=
+//TODO [Reference] 'Grass Block Border'
+staxel.tile.grass.GrassBorder2.name=
+//TODO [Reference] 'Soft, green grass.'
+staxel.tile.grass.GrassLayer.1.description=
+//TODO [Reference] 'Green Grass Block'
+staxel.tile.grass.GrassLayer.1.name=
+//TODO [Reference] 'Soft, long, green grass.'
+staxel.tile.grass.GrassLayer.2.description=
+//TODO [Reference] 'Long Green Grass Block'
+staxel.tile.grass.GrassLayer.2.name=
+//TODO [Reference] ''
+staxel.tile.grass.MeadowGrassLayer.1.description=
+//TODO [Reference] 'Meadow Grass Block'
+staxel.tile.grass.MeadowGrassLayer.1.name=
+//TODO [Reference] ''
+staxel.tile.grass.MeadowGrassLayer.2.description=
+//TODO [Reference] 'Long Meadow Grass Block'
+staxel.tile.grass.MeadowGrassLayer.2.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.BlueBrick.description=
+//TODO [Reference] 'Blue Brick Block'
+staxel.tile.happyBlocks.brick.BlueBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.BrownBrick.description=
+//TODO [Reference] 'Brick Block'
+staxel.tile.happyBlocks.brick.BrownBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.CreamBrick.description=
+//TODO [Reference] 'Cream Brick Block'
+staxel.tile.happyBlocks.brick.CreamBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.GreenBrick.description=
+//TODO [Reference] 'Green Brick Block'
+staxel.tile.happyBlocks.brick.GreenBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.GreyBrick.description=
+//TODO [Reference] 'Grey Brick Block'
+staxel.tile.happyBlocks.brick.GreyBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.OrangeBrick.description=
+//TODO [Reference] 'Orange Brick Block'
+staxel.tile.happyBlocks.brick.OrangeBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.PinkBrick.description=
+//TODO [Reference] 'Pink Brick Block'
+staxel.tile.happyBlocks.brick.PinkBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.PurpleBrick.description=
+//TODO [Reference] 'Purple Brick Block'
+staxel.tile.happyBlocks.brick.PurpleBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.RedBrick.description=
+//TODO [Reference] 'Red Brick Block'
+staxel.tile.happyBlocks.brick.RedBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.brick.YellowBrick.description=
+//TODO [Reference] 'Yellow Brick Block'
+staxel.tile.happyBlocks.brick.YellowBrick.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.description=
+//TODO [Reference] 'Blue Checker Carpet'
+staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.BlueDotCarpet.description=
+//TODO [Reference] 'Blue Dot Carpet'
+staxel.tile.happyBlocks.carpet.BlueDotCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.description=
+//TODO [Reference] 'Green Checker Carpet'
+staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.GreenDotCarpet.description=
+//TODO [Reference] 'Green Dot Carpet'
+staxel.tile.happyBlocks.carpet.GreenDotCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.description=
+//TODO [Reference] 'Pink Checker Carpet'
+staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.PinkDotCarpet.description=
+//TODO [Reference] 'Pink Dot Carpet'
+staxel.tile.happyBlocks.carpet.PinkDotCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.description=
+//TODO [Reference] 'Yellow Checker Carpet'
+staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.carpet.YellowDotCarpet.description=
+//TODO [Reference] 'Yellow Dot Carpet'
+staxel.tile.happyBlocks.carpet.YellowDotCarpet.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.pathing.PlazaBlock.2.description=
+//TODO [Reference] 'Plaza Block'
+staxel.tile.happyBlocks.pathing.PlazaBlock.2.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.pathing.PlazaBlock.description=
+//TODO [Reference] 'Large Tile Plaza Block'
+staxel.tile.happyBlocks.pathing.PlazaBlock.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.PlazaBlock.2.description=
+//TODO [Reference] 'Plaza Block'
+staxel.tile.happyBlocks.PlazaBlock.2.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.PlazaBlock.description=
+//TODO [Reference] 'Large Tile Plaza Block'
+staxel.tile.happyBlocks.PlazaBlock.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.BlueStone.description=
+//TODO [Reference] 'Blue Stone Block'
+staxel.tile.happyBlocks.stone.BlueStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.BrownStone.description=
+//TODO [Reference] 'Brown Stone Block'
+staxel.tile.happyBlocks.stone.BrownStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.CreamStone.description=
+//TODO [Reference] 'Cream Stone Block'
+staxel.tile.happyBlocks.stone.CreamStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.greenStone.description=
+//TODO [Reference] 'Green Stone Block'
+staxel.tile.happyBlocks.stone.greenStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.OrangeStone.description=
+//TODO [Reference] 'Orange Stone Block'
+staxel.tile.happyBlocks.stone.OrangeStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.PinkStone.description=
+//TODO [Reference] 'Pink Stone Block'
+staxel.tile.happyBlocks.stone.PinkStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.PurpleStone.description=
+//TODO [Reference] 'Purple Stone Block'
+staxel.tile.happyBlocks.stone.PurpleStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.RedStone.description=
+//TODO [Reference] 'Red Stone Block'
+staxel.tile.happyBlocks.stone.RedStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.WhiteStone.description=
+//TODO [Reference] 'White Stone Block'
+staxel.tile.happyBlocks.stone.WhiteStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.stone.YellowStone.description=
+//TODO [Reference] 'Yellow Stone Block'
+staxel.tile.happyBlocks.stone.YellowStone.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.BlueWood.description=
+//TODO [Reference] 'Blue Wood Block'
+staxel.tile.happyBlocks.wood.BlueWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.BrownWood.description=
+//TODO [Reference] 'Brown Wood Block'
+staxel.tile.happyBlocks.wood.BrownWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.CreamWood.description=
+//TODO [Reference] 'Cream Wood Block'
+staxel.tile.happyBlocks.wood.CreamWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.DarkTexturedWood.description=
+//TODO [Reference] 'Dark Textured Wood Block'
+staxel.tile.happyBlocks.wood.DarkTexturedWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.GreenWood.description=
+//TODO [Reference] 'Green Wood Block'
+staxel.tile.happyBlocks.wood.GreenWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.GreyWood.description=
+//TODO [Reference] 'Gray Wood Block'
+staxel.tile.happyBlocks.wood.GreyWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.LightTexturedWood.description=
+//TODO [Reference] 'Light Textured Wood Block'
+staxel.tile.happyBlocks.wood.LightTexturedWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.MediumTexturedWood.description=
+//TODO [Reference] 'Medium Textured Wood Block'
+staxel.tile.happyBlocks.wood.MediumTexturedWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.OrangeWood.description=
+//TODO [Reference] 'Orange Wood Block'
+staxel.tile.happyBlocks.wood.OrangeWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.PinkWood.description=
+//TODO [Reference] 'Pink Wood Block'
+staxel.tile.happyBlocks.wood.PinkWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.PurpleWood.description=
+//TODO [Reference] 'Purple Wood Block'
+staxel.tile.happyBlocks.wood.PurpleWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.RedWood.description=
+//TODO [Reference] 'Red Wood Block'
+staxel.tile.happyBlocks.wood.RedWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.TexturedWood.description=
+//TODO [Reference] 'Textured Wood Block'
+staxel.tile.happyBlocks.wood.TexturedWood.name=
+//TODO [Reference] ''
+staxel.tile.happyBlocks.wood.YellowWood.description=
+//TODO [Reference] 'Yellow Wood Block'
+staxel.tile.happyBlocks.wood.YellowWood.name=
+
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.1.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.1.name=
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.2.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.2.name=
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.3.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.3.name=
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.4.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.4.name=
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.5.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.5.name=
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.6.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.6.name=
+//TODO [Reference] 'Healthy, bright green leaves.'
+staxel.tile.leaves.Leaf.7.description=
+//TODO [Reference] 'Green Leaf Block'
+staxel.tile.leaves.Leaf.7.name=
+//TODO [Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
+staxel.tile.leaves.Leaf.Fairy.description=
+//TODO [Reference] 'Pink Fairy Leaf Block'
+staxel.tile.leaves.Leaf.Fairy.name=
+//TODO [Reference] ''
+staxel.tile.leaves.Leaf.Forest.description=
+//TODO [Reference] 'Forest Leaf Block'
+staxel.tile.leaves.Leaf.Forest.name=
+
+//TODO [Reference] 'This grass looks dead!'
+staxel.tile.lighthouse.Grass.dry.description=
+//TODO [Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.dry.name=
+//TODO [Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.long.1.description=
+//TODO [Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.long.1.name=
+//TODO [Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.long.2.description=
+//TODO [Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.long.2.name=
+//TODO [Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.long.dry.description=
+//TODO [Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.long.dry.name=
+//TODO [Reference] 'An overgrown tuft of grass.'
+staxel.tile.lighthouse.Grass.veryLong.description=
+//TODO [Reference] 'Long Grass'
+staxel.tile.lighthouse.Grass.veryLong.name=
+//TODO [Reference] 'This block has some engravings carved into it.'
+staxel.tile.lighthouse.Lighthouse.innerWall.description=
+//TODO [Reference] 'Engraved White Brick Block'
+staxel.tile.lighthouse.Lighthouse.innerWall.name=
+//TODO [Reference] 'A white block with a diamond shape on it.'
+staxel.tile.lighthouse.LighthouseLamp.description=
+//TODO [Reference] 'White Brick Block'
+staxel.tile.lighthouse.LighthouseLamp.name=
+//TODO [Reference] 'A solid metal block'
+staxel.tile.lighthouse.MetalGridFloor.description=
+//TODO [Reference] 'Metal Grid Block'
+staxel.tile.lighthouse.MetalGridFloor.name=
+//TODO [Reference] 'A painted red wall'
+staxel.tile.lighthouse.PaintedBrick.red.description=
+//TODO [Reference] 'Red Painted Brick Block'
+staxel.tile.lighthouse.PaintedBrick.red.name=
+//TODO [Reference] 'A painted white wall'
+staxel.tile.lighthouse.PaintedBrick.white.description=
+//TODO [Reference] 'White Painted Brick Block'
+staxel.tile.lighthouse.PaintedBrick.white.name=
+//TODO [Reference] 'A small stone. Very common.'
+staxel.tile.lighthouse.Stone.small.description=
+//TODO [Reference] 'Small Stone'
+staxel.tile.lighthouse.Stone.small.name=
+
+//TODO [Reference] 'A rough cobblestone block, great for outdoor pathing.'
+staxel.tile.newVillage.CobbleStonePath.description=
+//TODO [Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.CobbleStonePath2.description=
+//TODO [Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath2.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.CobbleStonePath3.description=
+//TODO [Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath3.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.CobbleStonePath4.description=
+//TODO [Reference] 'Cobblestone Path'
+staxel.tile.newVillage.CobbleStonePath4.name=
+//TODO [Reference] 'A white brick block. Very standard style.'
+staxel.tile.newVillage.Homebrick.description=
+//TODO [Reference] 'White Brick Block'
+staxel.tile.newVillage.Homebrick.name=
+//TODO [Reference] 'Quality wooden flooring. Made from a light brown wood.'
+staxel.tile.newVillage.IndoorFlooring.description=
+//TODO [Reference] 'Wooden Plank Flooring'
+staxel.tile.newVillage.IndoorFlooring.name=
+//TODO [Reference] 'A block made from light wooden planks.'
+staxel.tile.newVillage.LightWoodenBlock.description=
+//TODO [Reference] 'Light Wooden Plank Block'
+staxel.tile.newVillage.LightWoodenBlock.name=
+//TODO [Reference] 'White floor tile with an elegant design.'
+staxel.tile.newVillage.Pathway.stone.2.description=
+//TODO [Reference] 'White Brick Pathway'
+staxel.tile.newVillage.Pathway.stone.2.name=
+//TODO [Reference] 'A white floor tile with a simple design.'
+staxel.tile.newVillage.Pathway.stone.description=
+//TODO [Reference] 'White Brick Pathway'
+staxel.tile.newVillage.Pathway.stone.name=
+//TODO [Reference] 'Very thick and soft. It looks so comfortable, you could probably sleep on it!'
+staxel.tile.newVillage.PinkCarpet.description=
+//TODO [Reference] 'Pink Carpet Flooring'
+staxel.tile.newVillage.PinkCarpet.name=
+//TODO [Reference] 'A very rough stone pathway which has a rustic charm to it. Great for the outdoors!'
+staxel.tile.newVillage.RoughStonePathway.description=
+//TODO [Reference] 'Rough Stone Pathway'
+staxel.tile.newVillage.RoughStonePathway.name=
+//TODO [Reference] 'A crude looking brick block.'
+staxel.tile.newVillage.ShoddyWall.description=
+//TODO [Reference] 'Shoddy Brick Block'
+staxel.tile.newVillage.ShoddyWall.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.ShopFlooring.description=
+//TODO [Reference] 'Shop Flooring'
+staxel.tile.newVillage.ShopFlooring.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.ShopRoof.description=
+//TODO [Reference] 'Shop Roof'
+staxel.tile.newVillage.ShopRoof.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.ShopWall1.description=
+
+//TODO [Reference] 'Blue Shop Wall'
+staxel.tile.newVillage.ShopWall1.name=
+//TODO [Reference] ''
+staxel.tile.newVillage.ShopWall2.description=
+//TODO [Reference] 'Light Blue Shop Wall'
+staxel.tile.newVillage.ShopWall2.name=
+//TODO [Reference] 'Thatch makes for a great roof!'
+staxel.tile.newVillage.ThatchBlock.description=
+//TODO [Reference] 'Thatch Block'
+staxel.tile.newVillage.ThatchBlock.name=
+//TODO [Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
+staxel.tile.newVillage.WoodBeamTile.description=
+//TODO [Reference] 'Wooden Beam Block'
+staxel.tile.newVillage.WoodBeamTile.name=
+//TODO [Reference] 'A good wooden block to use both outdoors and in!'
+staxel.tile.newVillage.WoodenDecking.description=
+//TODO [Reference] 'Dark Wooden Plank Flooring'
+staxel.tile.newVillage.WoodenDecking.name=
+//TODO [Reference] ''
+staxel.tile.ocean.OceanTile.description=
+//TODO [Reference] 'Ocean Block'
+staxel.tile.ocean.OceanTile.name=
+
+//TODO [Reference] 'A block with a deep black colour. Very mysterious!'
+staxel.tile.retrotest.darkstone.description=
+//TODO [Reference] 'Darkstone Block'
+staxel.tile.retrotest.darkstone.name=
+//TODO [Reference] 'A block with a deep black colour. This darkstone block also has a golden trim.'
+staxel.tile.retrotest.darkstone_gold.description=
+//TODO [Reference] 'Gold Trimmed Darkstone Block'
+staxel.tile.retrotest.darkstone_gold.name=
+//TODO [Reference] 'A block with a deep black colour. Very mysterious!'
+staxel.tile.retrotest.darkstone_plain.description=
+//TODO [Reference] 'Darkstone Block'
+staxel.tile.retrotest.darkstone_plain.name=
+//TODO [Reference] 'A dirt block with a melody symbol engraved on it.'
+staxel.tile.retrotest.dirtmelody.description=
+//TODO [Reference] 'Dirt Melody'
+staxel.tile.retrotest.dirtmelody.name=
+//TODO [Reference] 'A block with an ancient feel to it. Made up from big, brown bricks.'
+staxel.tile.retrotest.dungeon_brown_brick.description=
+//TODO [Reference] 'Brown Dungeon Brick Block'
+staxel.tile.retrotest.dungeon_brown_brick.name=
+//TODO [Reference] 'A block made up from fine brown bricks.'
+staxel.tile.retrotest.dungeon_brown_cobblestone.description=
+//TODO [Reference] 'Brown Cobblestone Block'
+staxel.tile.retrotest.dungeon_brown_cobblestone.name=
+//TODO [Reference] 'A shoddy looking pillar.'
+staxel.tile.retrotest.dungeon_brown_pillar.description=
+//TODO [Reference] 'Brown Pillar'
+staxel.tile.retrotest.dungeon_brown_pillar.name=
+//TODO [Reference] 'An old looking blue block. This looks like it would be found in an ancient dungeon.'
+staxel.tile.retrotest.dungeon_floor.description=
+//TODO [Reference] 'Blue Cobblestone Block'
+staxel.tile.retrotest.dungeon_floor.name=
+//TODO [Reference] 'This is a dungeon flooring block. Usually used for underground rooms.'
+staxel.tile.retrotest.dungeon_floor_brick.description=
+//TODO [Reference] 'Blue Dungeon Brick Block'
+staxel.tile.retrotest.dungeon_floor_brick.name=
+//TODO [Reference] 'A dungeon flooring block with a skull engraved into it. Could add the perfect touch of spookiness to any room!'
+staxel.tile.retrotest.dungeon_floor_skull.description=
+//TODO [Reference] 'Skull Engraved Blue Brick Block'
+staxel.tile.retrotest.dungeon_floor_skull.name=
+//TODO [Reference] 'A shoddy looking pillar.'
+staxel.tile.retrotest.dungeon_pillar_blue.description=
+//TODO [Reference] 'Blue Pillar'
+staxel.tile.retrotest.dungeon_pillar_blue.name=
+//TODO [Reference] 'A simple, light brown block. It may be plain but it's a great way to balance out a room!'
+staxel.tile.retrotest.dungeon_staircase.description=
+//TODO [Reference] 'Light Brown Brick Block'
+staxel.tile.retrotest.dungeon_staircase.name=
+//TODO [Reference] 'A simple, light brown block. It may be plain but it's a great way to balance out a room!'
+staxel.tile.retrotest.dungeon_staircase_alternate.description=
+//TODO [Reference] 'Light Brown Brick Block'
+staxel.tile.retrotest.dungeon_staircase_alternate.name=
+//TODO [Reference] 'A solid block of liquid.'
+staxel.tile.retrotest.water.description=
+//TODO [Reference] 'Water Block'
+staxel.tile.retrotest.water.name=
+
+//TODO [Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.1.description=
+//TODO [Reference] 'Stone Block'
+staxel.tile.rock.Rock.1.name=
+//TODO [Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.2.description=
+//TODO [Reference] 'Stone Block'
+staxel.tile.rock.Rock.2.name=
+//TODO [Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.3.description=
+//TODO [Reference] 'Stone Block'
+staxel.tile.rock.Rock.3.name=
+//TODO [Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.4.description=
+//TODO [Reference] 'Stone Block'
+staxel.tile.rock.Rock.4.name=
+//TODO [Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
+staxel.tile.rock.Rock.5.description=
+//TODO [Reference] 'Mossy Stone Block'
+staxel.tile.rock.Rock.5.name=
+//TODO [Reference] ''
+staxel.tile.rock.Rock.snow.1.description=
+//TODO [Reference] 'Snow Covered Stone Block'
+staxel.tile.rock.Rock.snow.1.name=
+
+//TODO [Reference] 'This block is made up of a very fine sand.'
+staxel.tile.sand.Sand.beach.description=
+//TODO [Reference] 'Sand Block'
+staxel.tile.sand.Sand.beach.name=
+//TODO [Reference] 'This block is made up of a very fine sand.'
+staxel.tile.sand.Sand.desert.description=
+//TODO [Reference] 'Sand Block'
+staxel.tile.sand.Sand.desert.name=
+//TODO [Reference] ''
+staxel.tile.Sky.description=
+//TODO [Reference] 'Sky'
+staxel.tile.Sky.name=
+
+//TODO [Reference] 'A tall pillar with ancient writing carved into it. I wonder what it says?'
+staxel.tile.temple.AztecPillar.description=
+//TODO [Reference] 'Aztec Pillar'
+staxel.tile.temple.AztecPillar.name=
+//TODO [Reference] 'Can be chopped into the wood resource which is used in crafting.'
+staxel.tile.temple.BasicWood.description=
+//TODO [Reference] 'Wood Block'
+staxel.tile.temple.BasicWood.name=
+//TODO [Reference] 'White stone brick. Seems to be very old!'
+staxel.tile.temple.Brick.description=
+//TODO [Reference] 'White stone brick which is overgrown with moss. Looks to be incredibly old.'
+staxel.tile.temple.Brick.mossy.description=
+//TODO [Reference] 'Mossy White Aztec Brick Block'
+staxel.tile.temple.Brick.mossy.name=
+//TODO [Reference] 'White Aztec Brick Block'
+staxel.tile.temple.Brick.name=
+//TODO [Reference] 'An ancient block with some strange writing carved into it.'
+staxel.tile.temple.InnerWall.description=
+//TODO [Reference] 'Aztec Engraving Block'
+staxel.tile.temple.InnerWall.name=
+//TODO [Reference] 'A very strange leafy block. It's very soft.'
+staxel.tile.temple.LeafyTile.description=
+//TODO [Reference] 'Dark Green Leaf Block'
+staxel.tile.temple.LeafyTile.name=
+//TODO [Reference] 'A solid block of liquid.'
+staxel.tile.temple.Water.description=
+//TODO [Reference] 'Water Block'
+staxel.tile.temple.Water.name=
+//TODO [Reference] ''
+staxel.tile.water.PondWater.description=
+
+//TODO [Reference] 'Pond Water'
+staxel.tile.water.PondWater.name=
+
+//TODO [Reference] 'Flooring block made out of wicker. Belongs to the 'Wicker Set'.'
+staxel.tile.wicker.WickerFloorTile.description=
+//TODO [Reference] 'Wicker Flooring'
+staxel.tile.wicker.WickerFloorTile.name=
+
+//TODO [Reference] 'Can be chopped into the wood resource which is used in crafting.'
+staxel.tile.wood.BasicWood.description=
+//TODO [Reference] 'Wood Block'
+staxel.tile.wood.BasicWood.name=
+//TODO [Reference] ''
+staxel.tile.wood.ForestWood.description=
+//TODO [Reference] 'Forest Wood Block'
+staxel.tile.wood.ForestWood.name=
+//TODO [Reference] 'A quality flooring block of lightly coloured wooden planks.'
+staxel.tile.wood.WoodPlankTile.description=
+//TODO [Reference] 'White Wooden Plank Flooring'
+staxel.tile.wood.WoodPlankTile.name=
+//TODO [Reference] 'A block of quality wooden planking.'
+staxel.tile.wood.WoodPlankWall.description=
+//TODO [Reference] 'White Wooden Plank Block'
+staxel.tile.wood.WoodPlankWall.name=

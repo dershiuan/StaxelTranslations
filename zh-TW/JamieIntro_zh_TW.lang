@@ -1,0 +1,12 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Oh! It's nice to see a new face in town!'
+staxel.village.dialogue.intro.Jamie.line:10000100=
+//TODO [Reference] 'I'm just hunting monsters.'
+staxel.village.dialogue.intro.Jamie.line:10000200=
+//TODO [Reference] 'How about you?'
+staxel.village.dialogue.intro.Jamie.line:10000300=
+//TODO [Reference] 'I'm ^c:1486b0;{0-name}^c:pop; by the way!'
+staxel.village.dialogue.intro.Jamie.line:10000400=
+//TODO [Reference] 'You should come see my game collection sometime!'
+staxel.village.dialogue.intro.Jamie.line:10000500=

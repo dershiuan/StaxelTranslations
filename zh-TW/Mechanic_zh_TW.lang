@@ -1,0 +1,6 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'If yer in 'ere, make sure ya buy somethin'!'
+staxel.village.dialogue.job.Mechanic.line:10000100=
+//TODO [Reference] 'I don't have time for window shoppers.'
+staxel.village.dialogue.job.Mechanic.line:10000200=

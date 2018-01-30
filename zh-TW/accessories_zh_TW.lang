@@ -1,0 +1,455 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+
+//TODO [Reference] 'Black Frog Hat'
+staxel.accessories.characters.accessories.animalhats.BlackFrogHat=
+//TODO [Reference] 'Frog Hat'
+staxel.accessories.characters.accessories.animalhats.FrogHat=
+//TODO [Reference] 'Yellow Frog Hat'
+staxel.accessories.characters.accessories.animalhats.YellowFrogHat=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.cathats.CatHatStars.description=
+//TODO [Reference] 'Starry-Eyed Cat Hat'
+staxel.accessories.characters.accessories.cathats.CatHatStars.name=
+//TODO [Reference] 'Pink Cat Hat'
+staxel.accessories.characters.accessories.cathats.DarkPinkCatHat=
+//TODO [Reference] 'Purple Cat Hat'
+staxel.accessories.characters.accessories.cathats.DarkPurpleCatHat=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.AbeBeard.description=
+//TODO [Reference] 'Abe's Beard'
+staxel.accessories.characters.accessories.facialhair.AbeBeard.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.CurlyMustache.description=
+//TODO [Reference] 'Curly Mustache'
+staxel.accessories.characters.accessories.facialhair.CurlyMustache.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.Goatee.description=
+//TODO [Reference] 'Goatee'
+staxel.accessories.characters.accessories.facialhair.Goatee.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.Goateestache.description=
+//TODO [Reference] 'Gotee & Mustache'
+staxel.accessories.characters.accessories.facialhair.Goateestache.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.LongBeard.description=
+//TODO [Reference] 'Long Beard'
+staxel.accessories.characters.accessories.facialhair.LongBeard.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.PlainMustache.description=
+//TODO [Reference] 'Mustache'
+staxel.accessories.characters.accessories.facialhair.PlainMustache.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.ScruffyMustache.description=
+//TODO [Reference] 'Scruffy Mustache'
+staxel.accessories.characters.accessories.facialhair.ScruffyMustache.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.ShortBeard.description=
+//TODO [Reference] 'Short Beard'
+staxel.accessories.characters.accessories.facialhair.ShortBeard.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.facialhair.SmallBeard.description=
+//TODO [Reference] 'Small Beard'
+staxel.accessories.characters.accessories.facialhair.SmallBeard.name=
+//TODO [Reference] 'Original'
+staxel.accessories.characters.accessories.generic.normalhair.OriginalHair=
+//TODO [Reference] 'Ponytail & Bowtie'
+staxel.accessories.characters.accessories.generic.normalhair.PonytailHairBlueBowtie=
+//TODO [Reference] 'Jen's Hair'
+staxel.accessories.characters.accessories.generic.normalhair.ponytails.JensHair=
+//TODO [Reference] 'Short & Hairclips'
+staxel.accessories.characters.accessories.generic.normalhair.ShortHairYellowHaiclips=
+
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.AEmpty.description=
+//TODO [Reference] 'Frame A'
+staxel.accessories.characters.accessories.glasses.AEmpty.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.AGlass.description=
+//TODO [Reference] 'Glasses A'
+staxel.accessories.characters.accessories.glasses.AGlass.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.ASun.description=
+//TODO [Reference] 'Sunglasses A'
+staxel.accessories.characters.accessories.glasses.ASun.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.BEmpty.description=
+//TODO [Reference] 'Frame B'
+staxel.accessories.characters.accessories.glasses.BEmpty.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.BGlass.description=
+//TODO [Reference] 'Glasses B'
+staxel.accessories.characters.accessories.glasses.BGlass.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.BSun.description=
+//TODO [Reference] 'Sunglasses B'
+staxel.accessories.characters.accessories.glasses.BSun.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.CEmpty.description=
+//TODO [Reference] 'Frame C'
+staxel.accessories.characters.accessories.glasses.CEmpty.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.CGlass.description=
+//TODO [Reference] 'Glasses C'
+staxel.accessories.characters.accessories.glasses.CGlass.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.CSun.description=
+//TODO [Reference] 'Sunglasses C'
+staxel.accessories.characters.accessories.glasses.CSun.name=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.glasses.FarmFanGlasses.description=
+//TODO [Reference] 'Farm Fan's Glasses'
+staxel.accessories.characters.accessories.glasses.FarmFanGlasses.name=
+//TODO [Reference] 'Pumpkin Hat'
+staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat=
+//TODO [Reference] ''
+staxel.accessories.characters.accessories.hats.Headphones.description=
+//TODO [Reference] 'Headphones'
+staxel.accessories.characters.accessories.hats.Headphones.name=
+//TODO [Reference] 'Blue Monkey Hat'
+staxel.accessories.characters.accessories.monkeyhats.BlueMonkeyHat=
+//TODO [Reference] 'Orange Monkey Hat'
+staxel.accessories.characters.accessories.monkeyhats.OrangeMonkeyHat=
+//TODO [Reference] 'Pink Monkey Hat'
+staxel.accessories.characters.accessories.monkeyhats.PinkMonkeyHat=
+//TODO [Reference] 'Gold Tiara'
+staxel.accessories.characters.accessories.tiaras.GoldTiara=
+//TODO [Reference] 'Silver Tiara'
+staxel.accessories.characters.accessories.tiaras.SilverTiara=
+//TODO [Reference] ''
+staxel.accessories.coats.LabCoat.description=
+//TODO [Reference] 'Lab Coat'
+staxel.accessories.coats.LabCoat.name=
+
+//TODO [Reference] 'Bartwe Hair'
+staxel.accessories.devavatars.bartwe.BartweHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.bartwe.BartweHoodie.description=
+//TODO [Reference] 'Bartwe Hoodie'
+staxel.accessories.devavatars.bartwe.BartweHoodie.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.bartwe.BartweShirt.description=
+//TODO [Reference] 'Bartwe Shirt'
+staxel.accessories.devavatars.bartwe.BartweShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.bartwe.BartweShoes.description=
+//TODO [Reference] 'Bartwe Shoes'
+staxel.accessories.devavatars.bartwe.BartweShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.bartwe.BartweTrousers.description=
+//TODO [Reference] 'Bartwe Trousers'
+staxel.accessories.devavatars.bartwe.BartweTrousers.name=
+
+//TODO [Reference] 'Callum Hair'
+staxel.accessories.devavatars.callum.CallumHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.callum.CallumShirt.description=
+//TODO [Reference] 'Callum Shirt'
+staxel.accessories.devavatars.callum.CallumShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.callum.CallumShoes.description=
+//TODO [Reference] 'Callum Shoes'
+staxel.accessories.devavatars.callum.CallumShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.callum.CallumTrousers.description=
+//TODO [Reference] 'Callum Trousers'
+staxel.accessories.devavatars.callum.CallumTrousers.name=
+
+//TODO [Reference] 'Damon Hair'
+staxel.accessories.devavatars.damon.DamonHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.damon.DamonShirt.description=
+//TODO [Reference] 'Damon Shirt'
+staxel.accessories.devavatars.damon.DamonShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.damon.DamonShoes.description=
+//TODO [Reference] 'Damon Shoes'
+staxel.accessories.devavatars.damon.DamonShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.damon.DamonTrousers.description=
+//TODO [Reference] 'Damon Trousers'
+staxel.accessories.devavatars.damon.DamonTrousers.name=
+
+//TODO [Reference] 'Joe Hair'
+staxel.accessories.devavatars.joe.JoeHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.joe.JoeHat.description=
+//TODO [Reference] 'Joe Hat'
+staxel.accessories.devavatars.joe.JoeHat.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.joe.JoeShirt.description=
+//TODO [Reference] 'Joe Shirt'
+staxel.accessories.devavatars.joe.JoeShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.joe.JoeShoes.description=
+//TODO [Reference] 'Joe Shoes'
+staxel.accessories.devavatars.joe.JoeShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.joe.JoeTrousers.description=
+//TODO [Reference] 'Joe Trousers'
+staxel.accessories.devavatars.joe.JoeTrousers.name=
+
+//TODO [Reference] 'Moocow Hair'
+staxel.accessories.devavatars.moocow.MoocowHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.moocow.MoocowShirt.description=
+//TODO [Reference] 'Moocow Shirt'
+staxel.accessories.devavatars.moocow.MoocowShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.moocow.MoocowShoes.description=
+//TODO [Reference] 'Moocow Shoes'
+staxel.accessories.devavatars.moocow.MoocowShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.moocow.MoocowTrousers.description=
+//TODO [Reference] 'Moocow Trousers'
+staxel.accessories.devavatars.moocow.MoocowTrousers.name=
+
+//TODO [Reference] 'Razz Hair'
+staxel.accessories.devavatars.razz.RazzHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.razz.RazzShirt.description=
+//TODO [Reference] 'Razz Shirt'
+staxel.accessories.devavatars.razz.RazzShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.razz.RazzShoes.description=
+//TODO [Reference] 'Razz Shoes'
+staxel.accessories.devavatars.razz.RazzShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.razz.RazzTrousers.description=
+//TODO [Reference] 'Razz Trousers'
+staxel.accessories.devavatars.razz.RazzTrousers.name=
+
+//TODO [Reference] 'Sledra Hair'
+staxel.accessories.devavatars.sledra.SledraHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.sledra.SledraHat.description=
+//TODO [Reference] 'Sledra Hat'
+staxel.accessories.devavatars.sledra.SledraHat.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.sledra.SledraShirt.description=
+//TODO [Reference] 'Sledra Shirt'
+staxel.accessories.devavatars.sledra.SledraShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.sledra.SledraShoes.description=
+//TODO [Reference] 'Sledra Shoes'
+staxel.accessories.devavatars.sledra.SledraShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.sledra.SledraTrousers.description=
+//TODO [Reference] 'Sledra Trousers'
+staxel.accessories.devavatars.sledra.SledraTrousers.name=
+
+//TODO [Reference] 'Stein Hair'
+staxel.accessories.devavatars.stein.SteinHair=
+//TODO [Reference] ''
+staxel.accessories.devavatars.stein.SteinShirt.description=
+//TODO [Reference] 'Stein Shirt'
+staxel.accessories.devavatars.stein.SteinShirt.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.stein.SteinShoes.description=
+//TODO [Reference] 'Stein Shoes'
+staxel.accessories.devavatars.stein.SteinShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.stein.SteinTrousers.description=
+//TODO [Reference] 'Stein Trousers'
+staxel.accessories.devavatars.stein.SteinTrousers.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.teagadd.TeagaddShirt.description=
+
+//TODO [Reference] 'Teagadd Shirt'
+staxel.accessories.devavatars.teagadd.TeagaddShirt.name=
+//TODO [Reference] 'Teagadd Shoes'
+staxel.accessories.devavatars.teagadd.TeagaddShoes.description=
+//TODO [Reference] ''
+staxel.accessories.devavatars.teagadd.TeagaddShoes.name=
+//TODO [Reference] ''
+staxel.accessories.devavatars.teagadd.TeagaddTrousers.description=
+//TODO [Reference] 'Teagadd Trousers'
+staxel.accessories.devavatars.teagadd.TeagaddTrousers.name=
+
+//TODO [Reference] 'Colourful Kawaii'
+staxel.accessories.eyes.colourfulKawaii=
+//TODO [Reference] 'Dark'
+staxel.accessories.eyes.dark=
+//TODO [Reference] 'Dark with Eyelashes'
+staxel.accessories.eyes.darkEyelashes=
+//TODO [Reference] 'Dark Kawaii'
+staxel.accessories.eyes.darkKawaii=
+//TODO [Reference] ''
+staxel.accessories.eyes.gradient=Gradient
+//TODO [Reference] 'Gradient with Eyelashes'
+staxel.accessories.eyes.gradientEyelashes=
+//TODO [Reference] 'Grumpy'
+staxel.accessories.eyes.grumpy=
+//TODO [Reference] 'Kawaii'
+staxel.accessories.eyes.kawaii=
+//TODO [Reference] 'Kawaii with Eyelashes'
+staxel.accessories.eyes.kawaiiEyelashes=
+//TODO [Reference] 'Standard'
+staxel.accessories.eyes.normal=
+//TODO [Reference] 'Standard with Eyelashes'
+staxel.accessories.eyes.normalEyelashes=
+//TODO [Reference] 'Serious'
+staxel.accessories.eyes.serious=
+//TODO [Reference] 'Serious with Eyelashes'
+staxel.accessories.eyes.seriousEyelashes=
+//TODO [Reference] 'Serious-Wide'
+staxel.accessories.eyes.seriousWide=
+//TODO [Reference] 'Serious-Wide with Eyelashes'
+staxel.accessories.eyes.seriousWideEyelashes=
+//TODO [Reference] 'Sideways'
+staxel.accessories.eyes.sideways=
+//TODO [Reference] 'Sideways with Eyelashes'
+staxel.accessories.eyes.sidewaysEyelashes=
+//TODO [Reference] 'Small'
+staxel.accessories.eyes.small=
+//TODO [Reference] 'Small with Eyelashes'
+staxel.accessories.eyes.smallEyelashes=
+//TODO [Reference] 'Squint'
+staxel.accessories.eyes.squint=
+//TODO [Reference] 'Thick with Eyelashes'
+staxel.accessories.eyes.thickEyelashes=
+//TODO [Reference] 'Wise'
+staxel.accessories.eyes.wise=
+
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.AnimalMerchant.description=
+//TODO [Reference] 'Animal Merchant Outfit'
+staxel.accessories.fullBodyOutfits.AnimalMerchant.name=
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.BuilderMerchant.description=
+//TODO [Reference] 'Builder Merchant Outfit'
+staxel.accessories.fullBodyOutfits.BuilderMerchant.name=
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.ClothingMerchant.description=
+//TODO [Reference] 'Clothing Merchant Outfit'
+staxel.accessories.fullBodyOutfits.ClothingMerchant.name=
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.FlowerMerchant.description=
+//TODO [Reference] 'Flower Merchant Outfit'
+staxel.accessories.fullBodyOutfits.FlowerMerchant.name=
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.MagicMerchant.description=
+//TODO [Reference] 'Magic Merchant Outfit'
+staxel.accessories.fullBodyOutfits.MagicMerchant.name=
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.Merchant.description=
+//TODO [Reference] 'Merchant Outfit'
+staxel.accessories.fullBodyOutfits.Merchant.name=
+//TODO [Reference] ''
+staxel.accessories.fullBodyOutfits.MerchantCool.description=
+//TODO [Reference] 'Cool Merchant Outfit'
+staxel.accessories.fullBodyOutfits.MerchantCool.name=
+
+//TODO [Reference] 'Temp Hair'
+staxel.accessories.generic.cooking.TempBlueHair=
+//TODO [Reference] ''
+staxel.accessories.generic.cooking.TempBlueShirt.description=
+//TODO [Reference] 'Temp Shirt'
+staxel.accessories.generic.cooking.TempBlueShirt.name=
+//TODO [Reference] ''
+staxel.accessories.generic.cooking.TempBlueShoes.description=
+//TODO [Reference] 'Temp Shoes'
+staxel.accessories.generic.cooking.TempBlueShoes.name=
+//TODO [Reference] ''
+staxel.accessories.generic.cooking.TempBlueTrousers.description=
+//TODO [Reference] 'Temp Trousers'
+staxel.accessories.generic.cooking.TempBlueTrousers.name=
+
+//TODO [Reference] 'Curly with Hairbands'
+staxel.accessories.hairstyles.female.long.curlyhairbands.CurlyYellowHairbands=
+//TODO [Reference] 'Twintails'
+staxel.accessories.hairstyles.female.long.floppypigtails.FloppyPigtails=
+//TODO [Reference] 'Neko'
+staxel.accessories.hairstyles.female.medium.catGirl=
+//TODO [Reference] 'Normal Short'
+staxel.accessories.hairstyles.male.short.Male_NormalShort=
+//TODO [Reference] 'Short Emo'
+staxel.accessories.hairstyles.male.short.ShortEmoFringe=
+
+//TODO [Reference] 'Classic Mecha'
+staxel.accessories.helmets.mecha.Mecha_Classic=
+//TODO [Reference] 'EG4D'
+staxel.accessories.helmets.mecha.Mecha_EG4D=
+//TODO [Reference] 'L0V3'
+staxel.accessories.helmets.mecha.Mecha_L0V3=
+//TODO [Reference] 'P'
+staxel.accessories.helmets.mecha.Mecha_P=
+//TODO [Reference] 'Mecha Red'
+staxel.accessories.helmets.mecha.Mecha_Red=
+//TODO [Reference] 'Mecha Yellow'
+staxel.accessories.helmets.mecha.Mecha_XYellow=
+
+//TODO [Reference] ''
+staxel.accessories.princessdresses.ruffly.RufflyDress.description=
+//TODO [Reference] 'Ruffly Dress'
+staxel.accessories.princessdresses.ruffly.RufflyDress.name=
+
+//TODO [Reference] ''
+staxel.accessories.shirts.catshirts.CatShirt.description=
+//TODO [Reference] 'Cat Shirt'
+staxel.accessories.shirts.catshirts.CatShirt.name=
+
+//TODO [Reference] ''
+staxel.accessories.shirts.catshirts.Female_CatShirt.description=
+//TODO [Reference] 'Cat Shirt'
+staxel.accessories.shirts.catshirts.Female_CatShirt.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.catshirts.Male_CatShirt.description=
+//TODO [Reference] 'Cat Shirt'
+staxel.accessories.shirts.catshirts.Male_CatShirt.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.hoodies.femaleWhiteHoodie.description=
+//TODO [Reference] 'Hoodie'
+staxel.accessories.shirts.hoodies.femaleWhiteHoodie.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.hoodies.maleWhiteHoodie.description=
+//TODO [Reference] 'Hoodie'
+staxel.accessories.shirts.hoodies.maleWhiteHoodie.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.hoodies.WhiteHoodie.description=
+//TODO [Reference] 'Hoodie'
+staxel.accessories.shirts.hoodies.WhiteHoodie.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.splatshirts.FemaleSplatShirt.description=
+//TODO [Reference] 'Splat Shirt'
+staxel.accessories.shirts.splatshirts.FemaleSplatShirt.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.splatshirts.MaleSplatShirt.description=
+//TODO [Reference] 'Splat Shirt'
+staxel.accessories.shirts.splatshirts.MaleSplatShirt.name=
+//TODO [Reference] ''
+staxel.accessories.shirts.splatshirts.SplatShirt.description=
+//TODO [Reference] 'Splat Shirt'
+staxel.accessories.shirts.splatshirts.SplatShirt.name=
+//TODO [Reference] ''
+staxel.accessories.shoes.blackneon.BlackNeonTrainers.description=
+//TODO [Reference] 'Neon Trainers'
+staxel.accessories.shoes.blackneon.BlackNeonTrainers.name=
+//TODO [Reference] ''
+staxel.accessories.shoes.colouredtrainers.ColouredTrainers.description=
+//TODO [Reference] 'Coloured Trainers'
+staxel.accessories.shoes.colouredtrainers.ColouredTrainers.name=
+//TODO [Reference] ''
+staxel.accessories.shoes.hitops.baseHitops.description=
+//TODO [Reference] 'Hitops'
+staxel.accessories.shoes.hitops.baseHitops.name=
+//TODO [Reference] ''
+staxel.accessories.shortjeans.shortjeans_black.description=
+//TODO [Reference] 'Black Short Jeans'
+staxel.accessories.shortjeans.shortjeans_black.name=
+//TODO [Reference] ''
+staxel.accessories.shortjeans.shortjeans_darkblue.description=
+//TODO [Reference] 'Dark Short Jeans'
+staxel.accessories.shortjeans.shortjeans_darkblue.name=
+//TODO [Reference] ''
+staxel.accessories.shortjeans.shortjeans_fadedblue.description=
+//TODO [Reference] 'Faded Short Jeans'
+staxel.accessories.shortjeans.shortjeans_fadedblue.name=
+//TODO [Reference] ''
+staxel.accessories.shorts.baseShorts.description=
+//TODO [Reference] 'Shorts'
+staxel.accessories.shorts.baseShorts.name=
+//TODO [Reference] ''
+staxel.accessories.straptops.straptop.description=
+//TODO [Reference] 'Straptop'
+staxel.accessories.straptops.straptop.name=

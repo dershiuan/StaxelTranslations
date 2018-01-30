@@ -1,0 +1,10 @@
+language.code=zh-TW
+language=繁體中文 (Traditional Chinese)
+//TODO [Reference] 'Well now, this is just what the village needed!'
+staxel.village.dialogue.intro.Cecile.line:10000100=
+//TODO [Reference] 'Fresh bloo- no. Mea- hm. Eloquence, eloquence.'
+staxel.village.dialogue.intro.Cecile.line:10000200=
+//TODO [Reference] 'Aha!'
+staxel.village.dialogue.intro.Cecile.line:10000300=
+//TODO [Reference] 'I'm ^c:1486b0;{0-name}^c:pop; and I have absolutely no intention of using you as a test subject!'
+staxel.village.dialogue.intro.Cecile.line:10000400=
